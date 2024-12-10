@@ -1,0 +1,3750 @@
+TM 3
+abaaabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbbbbcccacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aacabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 c a b qf1 b c c R L *
+q2 b c c q4 c * a L L *
+q2 b a c q0 a b b L L R
+q0 c * a q0 * * * * L *
+qf1 * c a q1 * a * R R *
+qf1 * c a qf0 * c b * * R
+qf1 c * c q2 c b * R R L
+q1 a b b q4 * a * * R *
+q3 a * * qf0 a b b L * L
+qf0 c a * qf1 a c * R * L
+
+TM 3
+cabaaacccbbaacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caacaabacaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbabacccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 b * a q0 b c * L * *
+q3 * b * q4 c c * R R *
+q0 b c c q1 * c * R L R
+q4 b b b qf0 c c b L L R
+q1 * a * qf1 c c c L L R
+q3 * b b q2 c * c R * *
+q2 * c a q4 c * a R * L
+q3 b * c q2 c c c L L R
+q1 a * b q3 * b c L L R
+q1 * * a qf1 * c * L R *
+
+TM 3
+acaaaababannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abcbacacbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+babaacabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 c a c q1 * a b R R R
+q3 b a a q1 c * b * * L
+q0 a a * qf0 c c * R L *
+qf0 * c a q4 * a * R L *
+q0 c b * q3 * * b * * R
+q3 a c * q1 a b c L L R
+q4 * a a qf1 c a b * R *
+q0 b b b qf0 b a c L L L
+q0 b b c qf1 * c c * R L
+q0 a * c q4 a a c L L R
+
+TM 3
+babbcbaaaccbbabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aabbaaacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cccbaaabbcbbacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 c c c qf0 b * c L L *
+q4 * * * q2 b * c L L R
+q2 * * c q4 * * b R R R
+q0 b * c q3 b b c L * R
+qf1 c a b q1 b a c L * L
+q1 b b a q0 * c b R L R
+q2 b a b q4 * * c L R *
+qf0 * * c q3 b * b * L L
+q4 a b * q2 c b c L R L
+q1 c c a q2 c b a L R *
+
+TM 3
+abccbbcbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abaccaccbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bccabbabbaaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 * c c q0 c a c * R L
+q0 * * * q2 b a a R R R
+q4 a c c q1 b c a R * R
+q0 * * a q4 c * b * R L
+q1 b a c q3 a a * L L L
+q4 a b a qf1 c b c * L L
+q2 a a c qf1 * b * * L R
+qf0 a * * q2 b b * L L R
+q4 a a a q0 c a a L R L
+qf1 b * * q2 a c b L * *
+
+TM 3
+bcabcaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aabacabacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caaabbbcaabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 c b b qf1 c c a * * L
+q4 c b b q1 c c b R * *
+q4 a * a q4 a * * * L *
+qf0 * c a q4 * c * * L *
+q3 * * c q3 * a c L R R
+q1 b a b q3 b c * * * L
+q1 * * * qf0 * b a * L *
+q1 b c * qf1 c c * * L *
+q3 a * c qf0 b c b * L *
+qf1 * b * q0 * a * * * R
+
+TM 3
+ccacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcbcccaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabcacbbababccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 b c b q1 b a * R L R
+qf0 a b c q0 c c b L R *
+q2 * c b q4 * a a R L L
+q4 c * b qf0 a b * R L R
+q4 b a b qf1 b * a * L L
+q0 a c b qf1 b b a * R *
+qf1 a b * q3 * b c L R *
+q0 a b a q2 c a * * L R
+q2 c c b qf1 c * * R * L
+qf1 a a c q4 c * * R L *
+
+TM 3
+ccccbbccaaacccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acbccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccccacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 b * c q3 a b c * L *
+qf1 b b b q1 b * b * R L
+q0 b a b q1 b * a L R L
+q2 a * * q3 * a b L R R
+qf1 c * a q4 b * c L L *
+q3 b * b qf1 * b b L L L
+q4 * b a q2 c a b R L R
+q2 a * c qf0 c a c L L *
+q3 c a b qf0 c * * R L L
+q1 * a a q4 * a b * R R
+
+TM 3
+bbbcacbababbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acbbabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbabbbbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 b c a qf1 c a a * L L
+q0 b b c qf0 c a a * L L
+qf1 b a a q4 b a c R * R
+q1 * c a q3 a a * R L R
+qf1 b b c q1 a c a R R R
+q0 * * a q1 a a * L * R
+q2 a b * qf0 * * a L * *
+q4 a c a q4 b b a * * *
+q2 a a b qf0 a c a * * L
+q3 * * c qf0 a a * * * L
+
+TM 3
+bbcbacaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcccacccccccbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbababbaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 b c c q2 b b b R L L
+q1 * c * q2 b * c R * *
+q2 c a b q1 * b a L * L
+qf0 a b b qf0 a * a * * L
+qf0 a c a q0 * a * * * R
+q0 a c a q1 a b * * * R
+qf1 c * b q2 b b a L L *
+qf0 c * a qf0 * c * * L R
+qf1 * a * qf0 b b a L * L
+q1 * c a q3 b b a R L R
+
+TM 3
+cbbaabcbbcaabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aacaababbacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaccbcabaacbaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 * c b q4 b a a L * L
+q2 b * * q1 a c * * L L
+qf1 c * b q2 c * c L L *
+qf1 * * b qf1 * a c L R *
+qf0 * a a qf1 b b c L R L
+q3 * c a q4 * c * R * R
+q2 * * * q0 a * b R R R
+qf0 b c * qf1 c b b L L R
+qf1 b a c q4 c b b L R L
+q3 c * b q2 b * a R * L
+
+TM 3
+babcbabbabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acacacaaccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 * * b q1 a a b L L L
+q1 b b a qf0 a * * * * L
+q1 a a * q3 b * c L R L
+q3 * a * qf0 b a c * R R
+q3 * a b q0 * c * R * L
+q3 c a c qf0 c a a * R *
+qf1 b * a q3 * c c R R *
+q4 a b a q1 c b * * R R
+q3 b b b q4 b c c R * L
+q2 b b c qf1 * c * R L L
+
+TM 3
+bcaaaacbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aabbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+babcaabbcaaacccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 a c b qf0 c * b L R *
+qf0 b * c qf0 a * b R R L
+q0 * * * q4 c b c * L *
+q2 c * b q4 * b b R * *
+q1 b a * qf0 b b a * L R
+q1 b b a q1 b b c R L *
+q2 c b * qf0 c * b * * L
+q3 * a * qf0 c b * * R L
+qf0 b b c q4 * b c L L R
+q3 b b * qf0 c a * * * *
+
+TM 3
+caabacababnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbaaaabbbcaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cababnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 c a * q1 * b b L L *
+q3 * a * q4 * a a L * L
+q0 b c * qf0 c * a L * R
+qf1 a c a q0 a c * L * *
+qf1 b a a q4 * b a R L L
+qf1 * c c q3 b c * L * L
+qf1 b * * q1 a c c L L *
+q4 * a c q0 b * a L L L
+q4 * a a qf0 a a c * R *
+q2 a c c q4 a * c * R *
+
+TM 3
+cabbabaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cccbacaabbaabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 a a b q0 b a b R * L
+q0 b a a qf1 c c b L R L
+qf1 a a b q0 * * c * L *
+qf1 * * * q1 a c * L L R
+q0 c a a q3 c b a R * R
+q4 a c c qf1 c a c L * L
+qf0 a * b qf0 a c * R * L
+qf1 * b c q3 b b * * * R
+qf0 * c a q2 b c c R L *
+qf1 c * a q3 * b b L L L
+
+TM 3
+aacabbaaacbbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abaabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abcbaababannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 c b c q3 b c b L R R
+q4 * c b qf1 b a * * * *
+q3 c b c qf0 c a a * R *
+q2 * c b qf0 * b * R * L
+q1 a c c q0 a b * R * L
+q3 * b c q1 c c b * R L
+q4 b * * q1 * c * R L L
+qf0 c b * q4 a * * R L *
+q4 c a b q3 * a a R R *
+q2 c * b q1 * a b * * R
+
+TM 3
+cacbbacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bccbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbaabbbaabccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 a a * qf1 * c * L L R
+qf1 b c * qf0 a a a L R L
+qf0 b c c qf1 c a c L * R
+q3 b * c q4 a a a * R R
+q3 a c c q2 * c c L * R
+q4 a b * q2 c c a L R *
+q0 a a c q3 b * * R R L
+q1 b c a q3 * c c R L L
+q2 b a c q1 c a c L * R
+q0 a * b qf1 b b b L L *
+
+TM 3
+acbabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abcaacccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 c * b qf0 a c a L L L
+q3 c * a qf0 c b c * L *
+q4 b c b qf1 * * c L R *
+q2 * a c q2 c c * R L R
+q0 * b * qf0 c a c * L L
+q0 c a c q2 c c a R R L
+qf0 b a * qf0 * b * L L L
+q0 * * b qf0 c a * R R L
+q2 b c b q3 a a a * R R
+qf0 b * * q3 * c a * * *
+
+TM 3
+acabbbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbaaaabaabcacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbaaacaaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 c a c q3 b a c L L *
+q2 c a b q3 b * c R L *
+q3 c a a q2 b * a L L *
+qf0 b c * q3 c b * * R R
+qf0 b c a q4 b c * L * L
+q2 c b b qf0 * b a * R L
+qf1 b b b qf1 b b b * * *
+q1 c c a q4 a c b * R L
+q2 c c * q4 * a a L * L
+q0 a * b q1 * b a R * L
+
+TM 3
+bbcbcbbbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acacaaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcaaccaaaaacaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 c a a qf0 b a * R * L
+q2 c * a q2 * a c L * R
+q0 c c a q2 a b * L L R
+qf0 c a b qf0 * * a * * L
+q1 c b b qf0 c a * R * *
+q2 * * a q3 b * * L L R
+q0 a c * q2 * b c L L R
+qf1 c a c qf1 b * a R L L
+qf0 * c a q0 a a b L L R
+q1 b b a q1 b c c * R *
+
+TM 3
+bbaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccabacaaabccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acbacbcbcbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 * c * q3 b c c * R R
+q1 a a * q1 a * b L R *
+qf0 * c * q4 c * b L R *
+qf0 c * c qf0 a b c L L L
+qf1 b * c q4 * * a R * *
+qf0 * b b qf0 c a a * * R
+q2 a b * q4 * * b R R *
+q0 a a b q0 a a b L L *
+q0 * a c q3 c b * * * L
+q2 a a a q4 c * * * R *
+
+TM 3
+bbabbbcbbcabcacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bababbabbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 a c c q1 b c c R L *
+q3 c a * q4 c c c R R *
+q1 b * b qf1 c a a R L R
+q1 c * b q3 c c b R L R
+q0 b a * q0 c * * R * R
+qf1 c b b q3 * a c * * L
+q0 * c * q4 * a c * R L
+qf1 a a c q3 a * a L * R
+q0 b b c qf1 * c * R L *
+q3 c b c qf0 * * a * R L
+
+TM 3
+cbabccbcaccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baacaabaaacabcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaacbbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 b b * q2 b b * L R R
+q4 b a * q3 * b a R L R
+qf0 * b b qf1 a b c * L R
+qf0 b a a qf1 * c * L L L
+q2 b c b q3 a * a L L *
+q1 * * * qf0 b b a R * R
+q0 a c b qf1 * b b L * L
+q3 a c b q1 c a c L L *
+q2 a * c q1 c c * * L R
+q4 c a c q1 c a * L L R
+
+TM 3
+baabbcaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ababccbbcccaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbcbbcbbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 * * b q4 c b c L L R
+qf1 b a a qf0 c * * L * L
+q1 b c a qf1 a b c R L R
+q1 c b * q4 b b a R R L
+q3 * b a q1 a * a R * L
+q0 c c a qf0 b * c * L L
+qf0 c * c qf1 c b a * * *
+q4 a * a q1 a c a R * R
+qf1 b c b q3 c b * R R *
+q1 c * b q3 a c a R L L
+
+TM 3
+bcbbbacccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbaacacbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaacbbcbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 c b a q3 c c c L L R
+q1 * c b q2 c a b * * R
+q2 * * a qf0 c * b L R R
+q3 b a b q3 a a c * R *
+q3 a * * qf1 c a a L R *
+q3 b b * qf1 a a a L L *
+qf1 b * c q1 * c * L R R
+q4 * b * q4 * c c R R R
+q1 c * b q4 * c c R * R
+q0 b b b qf1 b c * * * L
+
+TM 3
+babcbacbbacbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbbbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbaccbcccaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 * * a q0 b * * * * L
+q2 * c b q4 a c a L * L
+qf1 * * a q4 c c c L L L
+q0 c a b q3 b b c R * *
+q0 b b * q2 a * a R L R
+q3 a c a q0 a c c L R R
+q4 a c a q1 a * a * L *
+q4 * a c q0 c a c * * *
+qf1 a c a q3 a b c L L R
+q3 b a a q0 c a c R L *
+
+TM 3
+aaacaabbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabacbababcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cacbabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 a a a q0 a a * * R R
+q1 b * c q2 * a a * R L
+qf0 b a c qf1 a * b R * *
+q3 a b c q4 a c c * * R
+q0 a a c q4 * * b L * *
+q0 a a b qf0 c * b R R *
+qf1 c a b q0 b b b R * *
+qf0 a * * qf1 a * * R * R
+q2 * a b qf0 b * * * L L
+q3 c * c qf0 c b a * * *
+
+TM 3
+bbcbaccabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bccbabbaababcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acbaacbacbabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 c a c q0 c * b R R L
+qf0 b * c q0 b c c * L R
+q3 * c b q4 * a a L L R
+q3 b c b qf1 c b b L * L
+q2 * * b q3 c a b L L L
+q2 c b * qf1 * c * L L L
+qf1 a b a qf1 a * * R * L
+q1 b c c q1 a a b R * *
+qf0 * a c q0 b * b * R *
+qf0 b c c qf0 * a * L * R
+
+TM 3
+bcaccbbcacbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+babcbbcacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+accccbbbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 a b c q3 c b * R * R
+q3 c * a q2 b b c R * *
+q2 * a a qf1 * b c R R R
+q0 b a a qf1 * a * R R R
+q4 a a a q4 b a c R R L
+q4 b b b q1 b c * R L R
+q2 c c c q1 c c c R L R
+q4 * a * q2 c b * L * *
+q2 * c a qf1 a a * R L R
+q3 c * c qf1 c * a R L *
+
+TM 3
+aacbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbcaabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbccabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 a * b q1 b a b L * *
+qf0 * b a q1 a * a * * L
+q4 a * b q1 a c c L R *
+qf0 b b b q1 a * b * R R
+q0 c * a q2 a b a L L L
+qf0 * b c q3 a * * * * *
+q4 c c * q1 a a * R R *
+q0 c a * q4 a c b L L *
+q3 c * a q2 * b c * * *
+q2 c * b q1 c a * * R *
+
+TM 3
+bacbbcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baacbbabbaabbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aacbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 b * c q1 c c * L L R
+qf0 * b b qf1 * a a * L *
+qf1 c b b q1 b * c L L L
+qf0 a b a q2 a a a R * R
+q4 b b c q2 * * b * L *
+qf0 c * b q0 a c b L L L
+q4 b b a qf1 a b c L L R
+q3 * a a q1 a b c R R *
+q4 c * b qf0 * a b * L R
+q0 b a c q1 c a c R L L
+
+TM 3
+acbaaccacbbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baccbabccaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaaacbcaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 a * * qf0 c c * R L R
+q3 b a c qf1 b b b * * L
+q4 a * c q1 c * a * L L
+q1 * b c q1 a c b * R R
+q1 c a * q0 * c * L L L
+q0 c a b q4 b a b R L R
+q2 a a * q2 c c a R L R
+q0 b b * q2 a a * * L L
+q2 b * a qf1 b b c * * *
+q0 * a a q3 b b b R * L
+
+TM 3
+abaaaaacabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+babccaaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccabacccbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 c c c qf1 b c b * R L
+q1 c b a qf1 a b c * R *
+q4 * * a qf0 c c c R * L
+q0 c b c qf1 c * a R L *
+q3 a * b qf0 a b b R R R
+q3 c * a qf0 a a a R R L
+qf1 c c b q0 c a a L R R
+q3 a * b q0 a c * L R *
+q1 b c c q3 b c * R * *
+q2 * * b qf1 c c a * R *
+
+TM 3
+aacbcabbccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caacabcbcaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcabaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 * b c qf0 * a * * L R
+q4 b b c qf1 a b * L R R
+qf1 b a a q0 * a * R R L
+q2 c b b qf0 b c * L L L
+qf0 c * * qf0 * c b R R L
+q1 a b * q1 c * * R R L
+q4 b c * q1 * a c * R L
+q2 * * c q4 c * c L * R
+q0 c b * q0 c a a R L *
+q1 * * c q4 a * b L R L
+
+TM 3
+cccccbcacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccacbacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cababcbbbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 * * * q3 * a a R R *
+q4 * * a q4 c b * R L L
+qf1 c c * q2 a c c R * *
+q2 b * * qf1 a b b * R R
+q4 * c a qf1 c * a R * R
+q0 a a * q1 * * a R R L
+q2 b c b qf1 a * a * R L
+qf1 * b * qf1 a c c R R R
+qf0 * * c qf0 b a b L R L
+q4 * a a q1 a c a R L *
+
+TM 3
+abcbabbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+babacbccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcbbbcaabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 b c b q3 c c b R L R
+q4 a c c q3 b c c R L *
+q3 b b * q1 b b b L * L
+qf1 * a a q2 c * b * * R
+q4 b b a q4 a * a L R L
+q4 * * c q3 b * b R R R
+q4 a b a q1 c b b L * *
+q1 c a * qf1 c c b * R R
+qf0 * a c q3 * b b L R L
+qf1 b b * qf0 * b c R R *
+
+TM 3
+bbbccabbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabacaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaaabbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 c a a q0 a b a R * R
+qf1 b a b qf0 * * b R * *
+q3 * c c q0 c * * R R L
+qf1 c a c q4 a a c R L L
+q1 c * * qf1 a a * R * R
+q3 a b * qf0 a a * L * L
+q1 c b a qf1 c c * L * R
+qf1 * c * q1 * b c L * L
+q0 b * c q2 a c * L R L
+q4 b b * q4 * c a R * L
+
+TM 3
+cacccaacaacbbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aacabbacbaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbbcbcbbbcbcaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 c c b qf1 a c a L * *
+q4 a * a q2 b b c R * R
+q1 b * a qf0 * b a * L *
+q2 c a a q1 * b c L R L
+q4 c c b q4 c c b R L *
+q1 * a b qf1 c c * L R L
+qf1 * a a qf0 * b c L L *
+q4 * * b q1 c b b R L R
+qf1 a * a qf0 b a * R * *
+qf1 c b * q1 * a a R L *
+
+TM 3
+abbbbbbbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acaccababbbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabbcabbcbbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 a b a q2 * * b R R L
+qf0 a a b qf1 b c c L R L
+q3 * * c q0 c a a R * R
+qf1 b * b q0 * * c * L L
+q1 a c * q4 * c * * * L
+q4 * * a qf1 b b * L * *
+q1 a c c qf1 a c * L R L
+q4 b * c q2 * a c R L R
+q2 b a c q1 * * a R R *
+q1 * a * q3 a * a R R L
+
+TM 3
+bccbbaabaccccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccacccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaabcabaaabccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 b b c q3 c a a * * *
+qf1 * b * q2 b a c L R *
+q0 c a b qf0 * * * R * R
+q1 c * b q4 a b b R * L
+qf0 b a a qf0 c c c * * R
+qf0 a b c q0 a b b * * R
+q0 a c b q0 c c b * R R
+q3 b b b q4 a b * L * L
+qf1 a b * q3 * * c * * R
+q3 * c b q1 c * c R R R
+
+TM 3
+bbcabacbbabbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbaabcaaaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bccccaccabababannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 c c b q1 b b a L * *
+q4 * * a qf1 a c b R R L
+qf1 * b * q2 b * b R * *
+q3 b a c qf0 c a b * * R
+q3 a a a qf1 b c a L L *
+q3 * c b qf1 * b b R L L
+qf1 a b b qf1 a a a L * L
+q2 a * a q3 * * a R * R
+q4 c a c q1 c a a L R *
+q3 b a * q1 b b a R R L
+
+TM 3
+accacbcccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+accabcbbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bababcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 a a b q0 b b * * * *
+q3 c * * q1 c a c * L R
+qf1 b a b qf0 c * a * R R
+q0 c * * q3 * * * R R *
+q0 b a b q3 c * a R R L
+q0 c * * q1 b b a R L R
+q4 * * c q3 b * c L * *
+qf0 c * b q1 * a b * * *
+qf1 c * * q1 c * b * L R
+q0 c c * q4 c b b L R *
+
+TM 3
+caaaaaaaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abcbccaccbbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baaabcbabbcacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 b a c qf1 a a a * L *
+q4 b c c qf0 c c * L L *
+q3 * c * q3 a b a * R R
+q2 a c b q3 c b a L R R
+q4 c c c qf0 c a a R L R
+q1 a * c q2 a * c * L *
+q0 a c c q3 * a a L R *
+q2 * a * qf1 b b c L L R
+q4 a a a q3 b b b R R L
+q0 a a b q2 * a a L * R
+
+TM 3
+cbcccbccccbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaccbaaabccacacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbbababbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 * * b q4 b b a L L *
+q3 c a c qf1 c c b L * *
+qf0 * * a q2 b a b L R *
+q1 c a c q0 a * b * L *
+q3 c b c q2 * a b * R R
+qf1 c b b q4 b * b * R L
+q2 c c c q4 * a a * R L
+q3 b c b q2 c a b R R *
+q0 a c b q3 b c * R * L
+q2 a * a q3 b * c L * R
+
+TM 3
+baabaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acacccbcaabcccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 a c * qf0 c c b R R L
+q3 * * * qf0 * * a L * *
+qf0 * * c q3 a c * * * R
+q4 c c a q1 c c b R * L
+qf1 a c c q4 b a a R R R
+qf1 * b b q0 c * * R * R
+qf0 a a c q3 c a * R * L
+qf1 a a a q0 a * a L L L
+q3 b c c q0 c * c L L *
+q3 b * a qf0 c a c * * L
+
+TM 3
+accbcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbcbbbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbcabaaaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 a a b q0 a * * R * R
+q0 * b b q0 c c a * R L
+q2 * * * qf0 b a a * L L
+qf0 a b * qf0 * * b L * R
+qf1 a * c q3 b c c * L R
+qf0 * a a q1 c b * L * L
+q2 a a * qf1 c c * R R L
+q1 c a a q1 * b * L L L
+qf1 a * c q4 c a * L L *
+qf1 b a * q2 b a a * R R
+
+TM 3
+accbaaacabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbbbabbcccbaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bccaccaccbcbabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 c * c q2 b b a L * R
+q2 a c * q4 c * a R * L
+q3 c a * q4 c b * * L R
+q2 b a b qf1 b * * L R R
+q0 b c a qf1 * c b R L L
+qf0 c * c q1 c c b R L *
+qf0 a * b q0 * a c * L R
+qf0 c c * q3 c * a * L R
+q1 c c a q4 b a b L * R
+q0 c * c q2 * b * * L *
+
+TM 3
+aacbbbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbccbacccbbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 c c b q4 c c a R R L
+q3 c c c q4 * a a R R L
+q1 a a b q2 b a c R L R
+q4 c a * q0 c a a * * *
+q3 * * c qf1 a c * R L L
+qf1 * * * qf1 a a * * R R
+q1 * b a q1 a * b R L R
+q3 a a c qf1 c b c L L *
+q1 a c a qf0 b * a L R R
+qf1 b a b q3 a * a * * L
+
+TM 3
+aabccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbcabaabbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbccabcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 c a b q1 a a a * * L
+q4 a * a q4 c b * L L R
+qf1 a * c q2 c b c * R L
+q0 c b c qf1 * c * L L R
+qf0 * * b qf0 * a a R L R
+q1 * * b q0 * c b L * L
+qf1 * a * q4 a a * R * *
+q3 a b c q1 c * a R R L
+q0 b b * q1 b * b * L R
+q1 * c b q1 b * b L L L
+
+TM 3
+ababaaaacabcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baabcbccabccabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baccbccbbbcbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 a b b q4 b c a R R *
+q0 c b a qf0 c * c * * R
+q2 a * b q0 b * c * L R
+q3 c c c qf0 c c a L L R
+qf1 c c a q4 b c a * R R
+q2 b * c q4 c b a L R *
+q3 c c a q0 * * b L R R
+q2 b c b qf0 * c a R R R
+q0 b c * qf1 c b a R * L
+q4 c b c q4 * * * * * R
+
+TM 3
+cababnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabcbcccacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aabcbaababbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 a a c q2 c * * L R *
+q1 a a c qf0 c c c R * R
+q0 a a c qf0 b a c * L L
+q4 b c b qf1 b a a R R R
+qf0 a * b qf1 a * * L R *
+q1 * b a qf0 c a c L R R
+q0 b c c q4 * * a R R R
+qf0 * c c qf1 a a b * * *
+qf0 a * b q4 b b a * * *
+qf1 b c b qf1 c b b L L R
+
+TM 3
+cbbbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbababacaacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 b a b q3 c * a R * L
+qf1 c * a q4 * * b R L R
+q1 b c a q4 * a a R L *
+qf1 c c * q2 * b * * L *
+q2 b c a q4 c b b L R *
+q3 c * * q1 * a c L * R
+q0 b a b qf0 c a a R L L
+q4 * a c q2 b a * R * L
+q3 a * * q3 b c b * L *
+qf0 b * b q4 * b c * R R
+
+TM 3
+bbbbcacaaabccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ababcbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbaacabbabcacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 a * b q4 b * * L L R
+qf1 a b b q2 * * * L * R
+q2 a * * q3 * c * L L *
+q0 c c * q4 b c b R * L
+q0 b a b q1 a * a L L L
+q3 b b b q0 c * a R R R
+qf1 c c b q4 * * c * L R
+qf1 a a c q1 c b c R * R
+q1 a * * qf0 a b c R L *
+q2 * b * q2 c * c R L *
+
+TM 3
+bbcabcbaaacbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbabcaacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abbbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 c * b qf0 c a b L R L
+q0 a c b q2 a a b R R *
+qf1 b c c q2 c * a L * R
+q3 a * c q3 a a c L L R
+qf1 c * c q1 a a b R L L
+q3 c b a q1 a c b L R R
+q2 b c a q4 c a c * L L
+qf1 b a b qf1 b a b * L *
+qf0 b c * q1 * b b L L L
+q1 c * * q2 * * c R * L
+
+TM 3
+bbbbaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caaabbbcbcabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 c b a q1 b c c L R R
+qf1 c b * q0 b a a L L R
+q0 c * a q1 b a * L L *
+q0 b b a qf0 a c b L R L
+qf0 c a a q0 b c a * * L
+q0 * * c qf0 * * c R L R
+q4 a a b qf1 b b a R L R
+qf1 * * b q0 * b * L * *
+q1 c b * q4 b * b * R L
+qf1 c * c q1 b c c R L L
+
+TM 3
+cbaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bacacacbbaabcbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 b c c qf1 b c b * R R
+q2 a b b qf1 c * b * L L
+qf0 b b a q4 b c a L R R
+qf0 * a b q0 * * b * * *
+q2 * * a q4 * c a R R L
+qf1 * c a q0 a * b R L R
+q1 b a * q4 a * a * L *
+qf1 a c b q0 c * b L * *
+q4 a * * q4 c * c * R L
+q1 c a b q4 * b b * R R
+
+TM 3
+cabbcaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acabbabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbcabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 a b * qf1 a a * * R R
+q3 c b c q0 c b a * * R
+q1 * a a q1 * c * * * *
+q4 * a c q0 * * c * L *
+q1 * c c q1 * a * * L *
+q2 c a b q2 b * * * L *
+qf1 * a * q1 c * b R L R
+q2 a * a qf1 c c b R L R
+q1 * b b q0 a b c R R L
+qf1 c * c q3 c b b L * L
+
+TM 3
+bcbaaaccbbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+accaaababbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 c b b qf1 a * * R * *
+q2 * c b q1 * a a R L R
+q2 b b a qf0 b * a * R L
+q1 c a b q2 a * b L L R
+q2 b c b q4 b * * * R *
+q0 c * c q3 a b * L * *
+q3 a a a q4 * c c L R L
+q1 * b a q0 c c c * * R
+q0 b * * q1 * * a R L R
+q1 a * * qf0 b * * L * L
+
+TM 3
+aaccccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cacacaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 * b c qf1 c c a L * L
+qf1 * * a q4 c a b R L L
+q0 a c b qf0 b c * R * L
+qf0 c b * qf0 c c a R L L
+q0 * b b q3 b a * R L R
+q3 b b a q2 b a * R R L
+qf1 a c * q3 b c * R L R
+q0 c * a q4 b b * * R L
+q1 c * * qf1 c a * * * *
+q3 a a b qf0 a * b R * L
+
+TM 3
+ccbabbcbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acabacaababcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabcbccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 a a c q1 c b b * L *
+q1 b c a qf1 c c a L * *
+qf0 c * b q1 c * c * * R
+q4 a b c q3 c * * R L *
+q0 * a c q2 a * a R * R
+q1 * * a q3 c * a * R L
+q1 c * b qf0 b b b * R *
+q3 * a * q1 a c c L L *
+q4 * * a q1 a * * L R R
+q2 * a a q2 c * c * * L
+
+TM 3
+abbbcacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbacbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 c b b q4 a c c R R *
+q1 b a * q4 c a * R R *
+q3 c * b q3 a c a R L *
+qf1 c c c q0 b b b R L R
+q2 * c a q4 c * * * R L
+q0 c c a q3 a a b L R *
+q4 b a b q2 a * c L * *
+qf0 b b b qf1 b * a R R L
+q2 a a * q3 * * b R * R
+qf0 b * a q3 a a a * * R
+
+TM 3
+ccaacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baaabaccabbccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbcccacaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 a c c q2 a a * * * R
+q1 c b * qf0 c b b R R L
+q4 a c a q4 * a c L L *
+q0 a a b q0 c a c * L L
+qf0 b b * q0 c c c R * R
+q0 b c b qf1 c c a L L *
+q1 * a * q2 b a a L R R
+q2 b c b qf0 a a * L R L
+q2 * b c qf0 * * c L L L
+q3 c b c q0 a b a * R L
+
+TM 3
+cbccbbababbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaaaaaabacbabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcacccacaccbcabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 b a b q4 c * c L L L
+q4 a a * qf0 b a a L R R
+q0 c b b qf0 b b * * L R
+qf0 b b b q0 a b * * R R
+qf0 a b b q1 * c c * * R
+q1 b c * q3 a b b R L L
+q1 a b a qf1 b c * R * L
+q4 b a a q1 a * * * R R
+qf1 * * a q0 b c * * L L
+q2 b a b q1 a c c R L R
+
+TM 3
+acbcaabacbaabcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaaccaccaccccabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baababaacaaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 * b c q0 * * * * * R
+qf0 * a c q0 b b c R L R
+q0 * b b q3 c a b R * *
+qf0 b a * q2 a c b L L *
+q2 b * c q1 b c c L * R
+q0 b a b q3 c * b R L L
+q3 c c * q0 c a * L * L
+q3 b * c q1 c b * R R R
+q3 c * * q3 a c a L * R
+q4 * * a qf0 c c a R L L
+
+TM 3
+cbacababaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabbabaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+accacacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 c a a qf0 a a c R R R
+q1 a b * q2 a * * * * *
+q3 b c * qf1 c b a R L *
+qf1 b * * q3 * b * L L R
+q2 b c b q1 c a c * * L
+qf1 a b b q1 b a * L R L
+qf1 b c * q1 * a c L R R
+q0 c * a q4 b * b * * *
+q1 b c a qf0 c c a R L *
+q2 * a b q1 * * * R * *
+
+TM 3
+ccacbbbcabaaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcaccaccbbabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cacbaccaccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 * c c q4 c a b * L L
+q3 a * c q2 b b b L R L
+q3 b c b q3 c * c * L *
+q4 a * b q4 a c * * R *
+qf0 * c b qf0 a * * * L L
+q3 * a * q1 * c c R L R
+q1 c b c q1 c c a L L R
+q4 c * b q1 a b c * L R
+q3 * c a qf1 c * b R L R
+qf1 c c c q3 b c c * R R
+
+TM 3
+cbbbbbcbcaacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbbaacbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbabccbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 b * * q1 c b a L L R
+q3 b * b q1 * c c L L L
+q4 * b c q2 * b a * R R
+q1 b a b q4 b b * R L R
+q4 b * a q3 a c b * * *
+qf0 a a * qf0 b a b L R *
+q3 c * c qf0 c a b * L *
+qf1 a * c q1 * * a L * R
+q0 b c a qf1 a a * * R *
+q3 b c b q3 b * a R L L
+
+TM 3
+cbcbbbaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabaaabbcaabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbccbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 a c b q2 * * * L R *
+q2 a b b qf0 * b a L R *
+qf0 b a a q2 a c * * L R
+q2 c * b q1 * * a R R R
+q1 a * a qf1 c * c L L R
+qf1 b a c qf0 c c a R * *
+q0 b a c q2 b b a R R *
+q2 b * a q4 a * a L L L
+q4 * b b qf1 a * * L L L
+qf0 * b b q0 a a b * * *
+
+TM 3
+cbbbacbbacbbabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cacaabcabcabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acbbcabcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 b b * q3 b * b * L R
+q0 a c * q2 * b * L R R
+q0 * * b q1 a c * * L *
+q0 c c a q4 b c * L L L
+q3 a * * q0 a * c R R R
+q4 c c b qf1 c a * * L R
+q2 a a a q1 a c b R R L
+q3 * * * qf0 a a b R R R
+q3 b * b q3 b c c R R L
+q4 * b * q0 c c * R R *
+
+TM 3
+cbbaababcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caaacbbbccbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 * b b q1 * b * * R *
+q3 c b b q4 * b b R L *
+q0 b * a qf0 c a a L R L
+q4 a c * q3 * * b * L L
+q3 a c c qf0 c b b * L R
+qf0 * a b q3 a b b R * *
+q3 c c a q3 b * c * * L
+qf0 * * * q3 * * b L R R
+q4 b c b q0 b c c R * L
+q4 a c b q4 b b a * R *
+
+TM 3
+accabcccacacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caabcaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabaaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 * a b qf0 b * a L * R
+qf1 c b * q1 b a * L * R
+q0 b c c q3 a * * R * L
+q1 c a * q1 b c * R R R
+q2 b * c q2 c * b * R R
+q1 c c * q0 a b a R R R
+q4 b b c q3 b b b * * R
+q4 * a c q1 * a a * R *
+q3 * b a q0 c * c L L L
+q2 a a b q3 * * a R L *
+
+TM 3
+abaacaaaccbacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbcbacaaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbcacccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 * b b q2 b * a L * *
+qf0 b c a qf0 b b a * R L
+qf0 * b b q0 c * b R * L
+q4 b c c q0 b c b L R R
+qf0 * c b q3 b b a L * L
+qf1 b b b q1 * * a R R *
+q1 b * c q3 c c * R R *
+q2 a c a q4 c c b R R *
+q3 b a c q1 * * * L L R
+q4 a * a q0 * * c R L *
+
+TM 3
+ccbaabaccbcbbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbaaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ababacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 c c * q3 c * a * * R
+q1 * b * qf0 a a b L R R
+q0 c c a q0 b b * L R R
+qf1 a c c qf1 a b c L R R
+q3 a a * q1 c b c L R R
+qf0 a * b q3 b b * * R R
+qf1 c c a q0 c b * L R L
+q3 * * a qf1 b * c * R L
+q0 a b * q2 c b * L L *
+q1 c a b q0 c c b * L L
+
+TM 3
+bbccbabaccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+accacbbcbbacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbbbcacbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 b b c q2 a a a L R *
+q0 * a a q0 a * * R * L
+q3 * b b q3 * b c * L L
+q4 a b a q0 b b b L L R
+q2 * b a q3 a * * L * *
+qf0 b a c q2 c * b * L L
+q3 b a b qf0 * b c * R *
+q1 a c b q1 b c a * R *
+q4 a b a q1 a a a * * R
+q3 c c * qf1 c b a * L R
+
+TM 3
+baabcabcbcbcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbbacabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bccbaacbbcaabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 * c b q1 * c a * R *
+q3 b b * qf1 b * a R R *
+q1 a b * q4 b c c * L L
+q1 * c a q0 a a b L R R
+q1 b b c qf1 b a a R * *
+q3 b a * q1 a * c * L L
+qf0 b c * q4 * c c R * *
+q4 a b * qf1 c * b * * L
+qf0 c * b q0 c c c R R *
+q4 c c c q3 a c a * * *
+
+TM 3
+accaccbccbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abaaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bacbcaccaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 * * b q2 * a b L R R
+q4 c a c q3 c b a R * R
+qf0 a b c q2 * c c L L R
+q3 b * b q4 a b c * * L
+q2 a a * q3 a a a R L L
+qf1 c b a q3 * c * * * L
+q1 * a * q0 * b * * L L
+q2 c * c q1 * * * R * *
+qf1 c c * q2 c * c * * *
+qf1 * c a q1 b a b R R *
+
+TM 3
+aaaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baacbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bccbbcccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 a c c qf1 a a * L R L
+q2 b b a q0 b * * R * R
+q1 c b a q0 b * * * R R
+q3 a * c qf0 a c b L L *
+q3 c * * q3 c c b R R L
+q0 c a c qf1 * a * * R L
+q4 c c c q0 c c c L L *
+q1 a c b qf0 c a * R R *
+q0 c a c q1 * * c L R L
+qf1 a * * qf1 a a a * R L
+
+TM 3
+bccacbabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aacbcbabbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccaacabbbccabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 b * c qf1 b c b L L R
+qf0 a * c qf0 * b * R L R
+q0 c b c qf1 * * * L * R
+q0 b b c q0 a b c * * R
+q4 a b b q2 * a c L * L
+q2 a * b qf1 b b * R * R
+q3 c * a q2 * a b R L R
+qf0 a c a q3 * c * * L R
+q3 b b * q3 a b b * L L
+qf1 a b c q2 * a c R * L
+
+TM 3
+bbbcbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aababcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bccbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 * * a q1 * a * R R R
+qf1 * b a q3 * a b * L *
+q4 a * c q3 * c c * * *
+qf1 a a * q2 c a c R R *
+qf0 b c b qf0 a a c L * *
+q1 b b b qf0 b c a L * L
+qf0 b c b q0 * * c * * *
+q4 b * c q3 a c c * L R
+qf1 b b c q2 a * b * * *
+qf0 b * a q1 b c * R L R
+
+TM 3
+abbbbaccaaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aacaacbacccacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbaaaacabbacacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 * * a q4 a b b * L R
+qf0 a c a q4 b a b L L *
+q0 b * b q3 a * c R R R
+qf0 c b c q3 c c a R R R
+q2 * c b q0 b * b * * R
+q0 a c b qf1 c a * * R R
+q1 c a b q4 c c a L L *
+q3 * c a qf0 c b b L R *
+q2 a b a q0 a a a * L *
+q2 c b a q2 c c a L L L
+
+TM 3
+cacacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcbbaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abacacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 * * b qf0 a c a * * L
+q3 a b b q0 c c b R R *
+q2 b c a q0 a c b * * L
+q4 b * a q1 b b c L L *
+qf0 a * a qf0 a c c L * R
+q4 b a c qf0 b b * R R R
+qf0 * a a q1 * * a * R *
+q0 a c b qf0 * c a L L L
+qf1 * * * q0 c c c R * R
+q4 b c c q0 c c a R L L
+
+TM 3
+baacccaabcbcbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaaaabacababbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caacbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 b b a q4 c * a * R *
+qf1 a c a q3 a c * R R *
+qf0 b * c qf1 b b c * R R
+q2 b b * q3 a c c L L R
+q4 c a b qf0 c c a L L *
+q2 * * a q4 a * * R * *
+q4 c c b q0 a a c R R R
+qf0 * c a q3 c a b * * L
+q3 c * a qf0 b a c L R *
+q0 a * * q1 a c b L * R
+
+TM 3
+cccabaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbabccccbbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbaaacbcbcabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 c c b q3 a c * * * *
+q4 c a b q3 a c a R R L
+q4 a * a q2 * b a R L *
+qf0 * b b q2 a b a * * *
+q2 b * b q4 b a * L * *
+q2 * * * q3 b c a * L R
+q1 c b * q4 c b a * * L
+qf0 a c b q0 * c * * L R
+q1 c * c q3 a c * L * *
+q0 c b * qf1 b a c * R *
+
+TM 3
+ccbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbccccbabaccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbacaacbacabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 a c * q4 * a b L R *
+q3 c * * qf0 c b b L * *
+q1 c b * q3 b * a L * *
+qf1 c * c q2 b a c R R R
+q2 c c b qf0 a * b R * R
+q2 c c c q1 b c a L L L
+q1 * b b qf1 c c * R L R
+q1 c b b q3 c b a L * L
+q0 * * a q3 c c * L R *
+qf1 b * * q2 b b * * L *
+
+TM 3
+acbaabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abababbabaaccaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcabbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 * * a qf0 a a a L R R
+q0 * c * q4 b a * * R L
+q3 c a b q3 a c c R R L
+q3 * * a q4 c c a L * R
+q1 b * c qf0 c a a L L *
+q4 b c a q4 c b * R * *
+q4 c * c q2 * c * * L *
+q3 b * b q4 c * a * R *
+q1 * c c qf1 b a c * L L
+q1 c * a q3 a b b R L R
+
+TM 3
+bbbbabacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbccbbaaccbaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 c b b q0 a a a L L R
+q0 c c a q1 * c * R * L
+q0 c c c q1 a a b R L R
+qf1 * b a qf1 a b * * L R
+q0 c * a q2 a c * R * *
+qf1 * c c q0 b b c * L L
+q0 * c * qf0 * c * L L *
+q0 * a a q1 a c c L L *
+qf1 b c c q0 * c b L * L
+q3 a a a q1 c a c * R L
+
+TM 3
+bacabbbbccacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbaaaaabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aacabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 b a c qf1 a b b R * L
+q1 c a c q3 c c b * R *
+qf0 b b a q1 * b * * R L
+q1 b a * qf0 c a * R R *
+qf0 * b * qf1 a b c L * *
+qf0 b c c q2 a * b * * *
+q0 b a b q1 a c * L R R
+q2 b c b q4 a a * R * L
+q3 c * a qf0 b a b R R L
+q0 * a b q2 b b c R * *
+
+TM 3
+bacacbbccbacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbacabcaacccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acbbccaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 a a b q2 * a a L L *
+q4 * a a q0 c a b * R *
+qf1 a * * qf1 a b c R * R
+q1 * * c qf0 b b * R L *
+q2 c b * q1 * * * R L L
+qf1 a a a q2 c a c L L *
+qf0 * b * q4 b c a L * R
+qf1 c * b q3 c a * R R L
+q4 c c a q4 c b c R R L
+q2 a c c q3 * c b R * R
+
+TM 3
+bbabcccaabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccacaaacacabbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaaccacccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 c * b q3 c a b R R *
+q4 c b a qf1 a * c * L R
+q2 a b a q0 c * b R * *
+qf0 c a a q3 a a * * R *
+qf0 c b * q2 a b a * R *
+qf1 a b b qf1 * b * L * *
+q4 c c b qf0 b * b R L *
+q2 a c * q1 * c c L R L
+qf0 * c b qf1 b a c L R R
+q3 a b c q2 * b b * R *
+
+TM 3
+babcaabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caabbccbabbacbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cccaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 c a a q3 c c a R * L
+q3 a c b qf0 a a c L * *
+q0 c a * q0 * * * * R *
+q1 b * * q0 b a b * * *
+q4 c c c q4 a a * L R R
+q2 c b * qf0 * * c R * R
+qf0 b b a q3 b c c L R *
+q3 a * b q3 c b * * R *
+q3 a * b q4 c c b L L L
+q3 a b c q2 c a c L L L
+
+TM 3
+cbacbaaaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+accbabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 b a b q0 b b b R L L
+q2 b a c qf0 c b * * * L
+q1 c c * q0 a * c R * R
+q4 * a c qf0 * c c R L L
+q0 c c * q3 c b b L L L
+q2 a * b q4 c b b * * R
+q1 * b a q3 b * c * R R
+qf1 a c c qf1 * c c R * L
+q4 b a c q1 b * c R L *
+q0 b b * q2 b * c L R *
+
+TM 3
+cbbabbbccbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbbbcaabbacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccaaababbaacaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 c a c q2 b a * R L *
+q4 b a c q0 c * a * L R
+q2 c c a q3 * * c L * L
+q1 b b * q3 * c b L * R
+q3 c * a q1 c c c * R L
+q1 * a a q4 b * b R R L
+q4 a b a qf1 c c a * R L
+qf0 * c * q4 c * a L R *
+qf0 a a a q0 c c a R * L
+q1 b * b q1 c c * R R *
+
+TM 3
+bbbabbabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabaabccbbcabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caabcccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 c c a qf1 * b b * * *
+qf1 * a * q4 * * * L * R
+q2 a b a q1 * c b * R R
+qf0 c c c q1 * b c R L *
+qf1 c * b q0 * c a L * L
+qf0 b a b q2 c c c * R *
+qf0 * * a q3 a a a L L R
+qf1 a b c q4 c c * L * *
+q4 * b a q4 a b * R L R
+q1 * c a q4 c * c R R *
+
+TM 3
+bcacbcabbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbccccbccaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccabcbbcbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 * b * q0 c b a R R L
+qf1 b * a q2 c c b R * R
+q4 * a * q4 c * c L * L
+q4 b c b q3 * b * * * *
+q1 b * c q4 b * b * * L
+q3 b * * q2 * * c R R L
+qf0 * c * q2 c a c R * L
+q0 a a c q4 a b c R * L
+q0 a * * qf1 * c a * R R
+qf0 c c c q2 c a c L * L
+
+TM 3
+bccccccccbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+babcbcbabcabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bacccaaaaabbaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 c a a q2 * * * R * L
+qf1 a a a qf0 * a * R * R
+qf0 c c * q3 c a c * * R
+qf1 c * a qf0 a c * * * R
+q4 b * c q3 b b c L R *
+q1 a a * q0 b * * L L L
+qf0 * a a q1 c c a * R *
+qf1 c * * q0 a b c R R *
+q1 b b c q0 c * c R L R
+q1 * b b q3 b a b R L *
+
+TM 3
+aacaacbabcbccbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abbaababcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbcbabcabacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 * * a qf1 c a a * L L
+qf1 b b c qf0 a b c * L *
+qf1 b b a q0 * * a * L R
+qf1 b a c q0 a * * L L L
+q2 c b b q4 a b c L R *
+q4 a c a q3 a * c * R R
+q4 a a a q0 b b c L * L
+q0 b b c qf0 a c * * R L
+qf0 b b c q3 c * a L R R
+qf0 a * c qf1 * * a L R *
+
+TM 3
+bbcbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+accbcbabccababnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aacccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 * b * q0 * c c L L R
+qf0 a b a q4 b b a * * *
+q1 c c b q4 a a * L R *
+q1 * * b q0 b b a L L R
+qf0 * a c q2 a c * * R *
+q2 * a c q1 * * * R L R
+qf1 a a c q2 c b b * * R
+qf0 b * c qf1 a a b L * L
+q1 c a b q1 * * a L R *
+q3 c a * q0 * b a R * L
+
+TM 3
+abbcabccbbbcbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbaacaabaabacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbccaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 * a b qf0 c * a * L R
+q4 * c a qf1 c a c * * *
+q1 b a * qf1 c * c R * L
+q3 a * b qf0 c b a R R L
+qf1 * a c q3 * b * R * R
+q2 a * a q1 c c * R L L
+q3 c c c qf1 a a b L L *
+qf0 * b * q0 c b c L R *
+qf0 a c a q3 c b c R L *
+qf0 c * * qf0 b a b * * *
+
+TM 3
+ccbbcaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbabcbabcabaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abaacbbabacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 b c a q3 b c b R L L
+q2 * c * q4 a b a * * L
+q3 c a c q3 * c * L L R
+q1 * b a q4 a b a L R L
+q3 * b b qf1 * c * * * L
+qf0 * a b q1 a a * L R L
+q0 b * b q0 a c b L R R
+q1 c * c qf1 * * b * * R
+qf1 a * c q1 b b c * L *
+q1 c b c q3 a * a * * *
+
+TM 3
+bcaaacbcbbbbbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbbbabcccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caaacbacbbccabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 a a a q1 * c * R L L
+q3 * c * q4 b c * * L *
+q0 a a c q0 a c b L * L
+q4 * c * q1 b b a L L L
+qf0 b c * q3 a b a L * *
+q1 c b * qf0 * * b * L *
+q1 b * c qf1 c c c R R R
+q4 a * c qf1 * b * R L R
+qf0 c c a q1 b c c * L L
+qf1 * b a q1 b c b * * R
+
+TM 3
+acbcbacbccbcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cacbacabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 c * * q4 c a b R L L
+q4 c b a qf1 * a * R L *
+qf1 * c * q4 b b a L L L
+q2 b c a qf1 b * * L * *
+q3 c * a q4 * c c * L *
+q2 * * c qf0 a * c * L R
+q2 b b a q1 b a c * L *
+q0 * b b qf1 c b * * L L
+q1 * * * q1 b b * L L L
+q1 c * a q4 c b c R L *
+
+TM 3
+bcccbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+accabaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcccbbbabbacabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 * * b q3 a * b R * R
+q1 * * b qf1 a a b R L *
+q1 a b b q2 a c a * * L
+q4 * * b q4 * * c R R L
+qf0 * c b qf1 * c a R * R
+q4 a c * q2 * c b R R R
+qf1 c a c q1 a * a R R R
+q4 c b c q4 c a a * * *
+q1 a a a q3 a a c L R R
+q3 * * * q0 c * a L * *
+
+TM 3
+aacbbcbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cacccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abbbabacaabacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 b * a q3 c * * * * *
+q0 c a a q2 a c b L L *
+q3 b c a q0 b c c * R R
+q4 c a * q2 * a b R L L
+q0 * * a qf0 c c * * * L
+q1 * * c q0 * b * L L *
+q1 b b c q2 b a a R R R
+q3 b c c qf0 * b a L L R
+q1 b c b qf1 b a a * * R
+qf1 c a b q2 a a b R L R
+
+TM 3
+bccacbacaccabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+accbabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+accbcacbcacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 * b b q1 b * a L * *
+q1 a a a qf1 * b c R L R
+qf0 b c c q1 b b a L * *
+qf1 a * c q4 c c a * R L
+q0 a b b q3 a a * L * R
+q3 b * a q0 * a c R L *
+q1 a a b q1 * * c * R L
+q1 a c a q4 a a a L L *
+q2 c a c q4 c c b * R L
+qf1 b c * q0 a b * L R *
+
+TM 3
+bbaabcccccaccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cacbcaccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aababccaabbbcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 * * * q2 * c c * R L
+q3 * c c q2 a c c R * R
+qf0 a c b q3 a * a R L *
+qf0 c a * q0 c a b L R R
+q1 c a c q4 * * c R L R
+q1 c a b q2 c a * R R L
+qf1 b b c q3 * * * L L L
+q3 a a * qf1 c * * R * *
+q0 c a a q4 c b a * L L
+q3 c c b qf1 * a a R R L
+
+TM 3
+cbcbcbcccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cacbbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 b b c qf1 a * c * * L
+q1 c * a q1 * * * R * L
+qf1 * c c qf1 b a a R * *
+qf0 c a b q2 b c * * L R
+qf0 b * b qf1 c b c * * R
+qf0 a c a q4 c * * L R L
+q2 a a a q4 c c * L L L
+q3 a a b qf0 * a b R * L
+q0 c * a q1 c a a L L R
+q0 * a c q2 c b a * R L
+
+TM 3
+abcbbaacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabcabbacbcccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cccabccabcccaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 c b b q3 a a a * L R
+q4 b b b q1 * a b * * R
+qf1 * c b q4 b * * * * R
+qf0 c c b q1 * b c L R R
+q3 c a b qf0 b c * * L *
+q0 * * a q0 b * a L * *
+q3 c b c q1 b * b R R R
+qf0 b * c q3 * a c L R L
+q4 b c * q3 a b a R L R
+q1 a c a qf1 b * b * R R
+
+TM 3
+bcbcbccabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+accbcbacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 * c c q1 b c a R * *
+q0 c c b q1 c c * L * L
+qf0 b c * q2 a b b * * L
+qf0 c * a q4 c * b * R L
+qf0 a c c qf1 c b a * L R
+qf1 b b * q2 b a a R * R
+qf1 a b * qf0 b b a * * R
+q2 b b b qf0 a a * L L R
+q3 b * b qf1 b * b L * *
+q0 c c a q2 a a b L * L
+
+TM 3
+acbabbbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caabaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acbbcbabbcbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 b b c q0 * a * R * L
+q3 * c c q1 b a b L * R
+q0 b a b q2 c b a L R L
+qf1 a c b qf0 c b c L R R
+qf0 a c b q4 b a a L R L
+q1 a a a qf1 a a a L * L
+q2 c a b q0 * a b R R R
+q3 c c c q0 a b a R L R
+q3 a * a q4 * c b R * L
+qf0 c * c q1 c b b * L *
+
+TM 3
+abbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbcccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbbccbbabccabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 a * b q1 * * * * R R
+q2 * b c q1 b * c * * L
+qf1 * a b q4 a a b R * *
+q1 b a c qf0 c c * * L L
+q4 c * * q1 c a c L R *
+qf1 b c c q4 b a * * L L
+q2 b b * qf1 * * c * R L
+qf1 * b * qf1 b c c R L R
+q2 * b b q3 a a b L L L
+q2 * * c q4 c b c L * L
+
+TM 3
+caaaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abccaccbcbabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 b c b q3 c c a L R R
+q3 a a a q0 a b b R L R
+q2 * b a qf1 a c c * * L
+q0 b c c q4 * a b R R *
+q4 b c * qf0 a * a R R R
+qf0 b c * qf1 a b a R * R
+q1 b a c q0 c b b * * *
+q1 a b b q4 b c c R * *
+q0 a a b qf1 c * a * * R
+q1 c b * q1 a * b L L R
+
+TM 3
+accabccbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caaabbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abbabacaacbbacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 b b a q3 * c b L * L
+q0 a * c q1 a a c R * L
+qf0 b * * q2 * c b * L *
+q2 b b * q2 c a * * R *
+q2 a b * qf0 b a * R L R
+q3 * a b q1 * * b R * L
+q4 c a b q4 a b * * L L
+q0 a a b qf1 c c c R R L
+q0 a * * q4 a b a L * L
+q4 * c * q0 c c b L R L
+
+TM 3
+bacaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbabbaccbacaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 * c b q2 a b b R * *
+q3 a c c q0 c c a * R *
+qf1 c * c q1 b c * R R L
+q2 b c c q3 * b c R R R
+q1 * c b q2 * * a R L R
+qf1 c c c q0 c b * * L *
+q0 c c * q2 c c a * * L
+qf1 c a c qf1 b b a * L R
+qf1 b b a qf1 b b b R R R
+q4 b a c qf0 b a c L R *
+
+TM 3
+bcaabacbabcbabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaaaaababbacabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cccbccaabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 b a c qf1 c c a L L *
+q4 * c a qf1 * a b L R *
+q1 b a a q1 * b b L L L
+q1 * c c q2 c c a * * *
+q1 * a a qf1 a c b * * L
+qf1 a c a q1 a * * L L L
+q1 a a a q4 * a a R * L
+q1 c * c qf0 b * * * R *
+q3 * b c qf0 c c b * L *
+q3 a a a q1 b a a R * *
+
+TM 3
+caaacbbaacbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcacabaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acaacbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 b c a qf0 * b c * * *
+qf1 * * c q4 b a b L L L
+q4 * c a qf0 c c b L * L
+q0 b b c qf1 c b a L * *
+q2 c * c qf1 c c * R L R
+q0 c b * q4 a b c * L R
+q4 a a * q1 b * b L R R
+q2 a * c q0 * * c L R L
+q1 b b b q0 b b a L R *
+q1 a b c q2 c b b * R R
+
+TM 3
+bbabbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cababcabbbbaabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aababbcaabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 c c * q3 * * a * * L
+q2 c a a q0 * b b * R *
+q3 c c a qf1 * c c * * R
+qf0 b * b qf0 * * a R L *
+q0 c a b qf1 c b a R * L
+qf0 b b b q3 * b a L * L
+qf1 a a b q1 a a a L R L
+qf1 c c a q3 * * c L R R
+qf1 a b b q1 b c b R * *
+q3 c c b q2 * * a * L *
+
+TM 3
+bbabaaabcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbaccacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbaaabbcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 b a b q0 b b b * L R
+qf0 b b a q3 * b b R * L
+q4 b * a qf0 c c * R * *
+q2 * * c q1 c * a L * L
+q3 c b c q2 b b a L R R
+q4 b * a q4 c b * R * *
+q0 a a b qf1 c * * L L R
+q4 b a c q3 a * * * L L
+q2 * b * q4 * a b * L R
+q3 c * a q0 c c c * L L
+
+TM 3
+acbcabcbcbccbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcbacbbacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bccbcabccbbccacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 b a c q4 c * a * R *
+q2 c c b qf1 a * * L * L
+q1 * * b q2 b * * * * *
+qf1 a c a qf1 c b c * R R
+qf0 * b b q1 a c a R L *
+qf1 c c a qf0 b b c L R L
+qf1 a c b qf1 a a a * * R
+q4 c b b q2 c b a L R *
+q1 a c * q2 a b c * R R
+q4 a c c q4 c * a R R L
+
+TM 3
+abbbccabbaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abacbabbccacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+accbabbababcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 a * c qf0 * a b R R R
+q3 c a a q3 a b c L R *
+q1 b c a q0 b a c R L L
+q3 c * c q3 * a c L * R
+qf0 * b c q0 * a a R R *
+q4 a * * qf1 a b c * L R
+qf0 b b c q2 b b b * * *
+q3 * * a q1 a c a L * L
+qf1 b b c qf1 c b a R R R
+qf0 b * c q2 a a b R * L
+
+TM 3
+caccbaccbbabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baabbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbacccaccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 a * * qf0 a c b R * *
+q0 a * c q1 b a * * R *
+q2 b a * q1 b c a R R R
+q3 * * c q0 * * a L L R
+q4 b c c q4 * c a R R L
+qf1 * b c q2 a c a R * R
+q4 * c * q1 * a b * * R
+qf1 b a b q1 a * b L L R
+q0 c b c q0 c c b L * *
+q4 * b * q2 a c c * * *
+
+TM 3
+abcbabaaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aabccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaaacccbaaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 a c b q4 a a * * * *
+q3 a b c q0 * c c * * R
+q1 c c c qf1 * a c R L L
+q0 a b a q0 b * c L * L
+qf0 * * c q4 a b b * R L
+qf0 b * c qf0 * a b L L *
+qf1 * b a q1 a c a L R *
+q1 b a b q1 * c b * R R
+q2 a b b q4 c b c L * *
+q2 c c a q4 * b b L R R
+
+TM 3
+baacaaacbcabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccaccbaabcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abbbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 * b c q3 c c b R * L
+q3 * b a q0 c a c R R L
+qf0 b * a q4 b * b R L *
+qf0 b c a q3 c * b R L *
+qf0 * * a q1 * b a L L L
+q4 c b * q4 a * a L L *
+qf0 b * * q1 b b c R L *
+q0 c a b q4 b * c L R L
+qf1 c * * q3 b * b * R R
+q4 a b * qf1 c a a L L L
+
+TM 3
+acacaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acbbcccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbcbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 c a c q4 b b b * * *
+q3 a c b q4 c c * * R *
+q2 c c * qf1 c a * R L *
+qf1 b * * q3 c * c * R R
+q4 a a * q3 * * c R * L
+q2 * a a q2 * c b R L *
+q3 b * c qf0 * a a * R *
+q2 * * c q1 c c c L * R
+q4 b * a q1 c * * R * R
+q0 b c a q3 b b a L * R
+
+TM 3
+acbaacbaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcabbcbcaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caacaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 a * a q0 c * c L L *
+qf0 c c * q0 a a a R * R
+q4 c c b q1 a a a R R L
+q2 * b a qf1 c b * * R R
+q4 c c c q4 c b c R * *
+q0 a a * q3 a a c R * *
+qf0 * b b q1 * b * R R R
+qf0 b a a q0 * b * R R L
+q3 a * c q1 * a b L * *
+qf0 a * a q2 c c b * L *
+
+TM 3
+aaccacabbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cccabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abcbacbacaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 c * a q3 c * * R R L
+q3 a b * qf0 b b * * L L
+q0 a a b q2 a c c * L L
+qf1 a c b q2 b a a * L R
+q3 b b b q2 * a c * R *
+qf0 * a c q3 a a c R * L
+q2 a c b q0 c c * R L R
+qf0 c c * qf0 a a a * * R
+qf0 * * b q0 b a b L L L
+q1 a * * q0 * * a L L R
+
+TM 3
+ccacaacabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+babbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cacbabbccaaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 a c c qf0 * a c * * L
+q3 a b a q4 a b a L R R
+q0 a b a qf1 a a a L L R
+qf0 c a b q1 a * b R * L
+qf0 a a c q3 * a a * L R
+q3 * a a q1 * c a * L *
+q1 b c * q1 c b b * R R
+qf0 b a b q1 * c a R * *
+q2 c * a qf1 a c * R L L
+q4 * c c q4 a b b L * L
+
+TM 3
+bcbbababacbbbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abcaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbbbbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 b a a q2 b * a * * *
+q1 c b * q0 * * c * L L
+q2 * * c q3 * a b L * *
+q1 a c c q1 a a c L R L
+qf0 b c b q1 c * c * L R
+qf0 c b b q4 * * c * * L
+qf1 b a b q1 * c * L R *
+q0 b b b q0 b * a * * R
+q1 a c a q1 a b * L R *
+qf0 b c b q0 a * a R R R
+
+TM 3
+bcabaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bccbbcabbaabccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cccaacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 c * a qf0 * c c * R L
+q1 * a c q2 b a c R R R
+q2 b * b q3 b b a * * R
+q3 c a b q0 * b c R R *
+qf0 a a a q1 b c * R * R
+q3 c b * q2 c c * * R L
+q3 b * * q2 a * a R * R
+q1 b * b q1 b b a R L L
+q3 b a * q2 b b * * L *
+q0 b a * q0 a c b R R *
+
+TM 3
+acacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bccabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baaaaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 * c a qf1 * * a * R *
+qf0 b b a q1 * c c R R L
+q4 b b b q3 * a b L R *
+q3 a c a qf0 c * * R R R
+q4 a * * q0 a c c * * R
+q3 b b * q1 * a a L * L
+qf1 * * c q1 b b * * * L
+qf0 a c b q4 c a b L L R
+qf0 a c c q3 c * c * L R
+q3 * c c q4 c c c R L *
+
+TM 3
+ccaababcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaacbbcabbbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbcbacbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 * a b qf1 a * * L R L
+q1 c * b qf0 * a a L R *
+qf1 b * c qf1 b b c * R R
+q1 a a b q4 a a b L L *
+q1 c a * q1 * c c R L *
+q0 a a c q4 c a a R R *
+qf0 c a * q3 b a b R L *
+q4 b a b qf0 * b c * L L
+q4 b a c q0 c a * R L L
+q3 c * c q2 a c b * * R
+
+TM 3
+cbaaaccabacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcbacaacbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+accacbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 * * * q2 a * b R * L
+q2 b a c q2 * c b * * R
+q3 c a b qf1 c c a R R L
+q1 b a c q4 c a b L L *
+qf0 c a b q0 b b b * L R
+q2 a * * q1 a * b L * R
+q2 * a * q3 * * c L L L
+q1 a a b q0 c * c R R R
+qf1 b b * q2 b * b R R L
+q1 * b * q0 a b * L L *
+
+TM 3
+cbabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ababbcbbcacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaaabcbacbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 c b c q4 a * * * L *
+q4 b * c qf1 * b a L L L
+q1 c b * q0 c c a * L L
+q2 a c b q1 c b * R L *
+q1 b c c q3 b a c * * R
+q1 * b c q4 b c c * * L
+q1 a * a q4 c * * * L L
+q3 * a a q2 * b * * * R
+q1 * * b q4 * * c * * *
+q0 b c c q4 * * c * R L
+
+TM 3
+baaabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbaaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abcabbacabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 c * a q2 * * c L R L
+q3 c b c q0 a a c * * L
+q3 c a a qf0 * a * L * R
+q2 a * a qf0 b c * R * L
+q4 b * * qf0 c c * L * L
+q0 * c b q4 a c a * L L
+qf0 a * a q0 b * * R * *
+q1 a c a q3 c * c * R L
+q2 c b b q1 a * b L L L
+q2 * c c q1 a b c R L *
+
+TM 3
+cbbcccacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caacaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 * * c q1 b c * * L L
+q1 * * b q4 c a a R R L
+q1 b b a q3 a a c R * *
+q2 b * a q2 a * * R R R
+q0 c c * q1 a * b * * L
+q4 * a * q3 c b a L R *
+q1 * * c q3 a * b * L R
+q3 c a b qf0 b a a R * R
+qf1 c a a q1 * c c R * *
+q3 c * c qf1 c b c * L L
+
+TM 3
+abcbbcbacbbacabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbccbabacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbcaccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 b c b q3 b * a L * R
+q3 a c b q2 c * a R L *
+qf0 c c b q4 c * * R L *
+q0 a a b q3 c b c * * R
+q2 c c a qf0 b a b * * L
+qf1 a c * q3 c a a * * R
+q4 a a a q2 a c a R R R
+q0 * c c q0 b b b * * L
+q2 a c * q1 a a c * R R
+q2 b c * q0 c a c L L L
+
+TM 3
+caccaacacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aabcbccbbcaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 * a b q4 c a b * R *
+q3 c a b q3 a b * R * R
+q3 b c b q0 * b a L * *
+q4 c c c q0 * a * L L R
+q4 * a c qf1 b a c L R L
+q4 c c a qf0 a * * L * *
+q2 c a * q4 b * a L L R
+qf1 c * c q4 c b * * L *
+q0 a b * q3 b * c * R L
+q4 a * b q4 c c a L R L
+
+TM 3
+acacabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caaaccaccaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abccbcabaacbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 a b a qf0 c * b L L *
+q0 * * c qf0 b b * * R L
+qf0 a c c q2 * c a R * *
+q1 c a a q0 c * b L * R
+q2 b c b qf1 c b b L R R
+qf1 c b * q3 c a c * L L
+q0 a * b q1 * a a R L *
+q1 b * * q3 b b a L * *
+q0 c b c q3 b a * * L *
+q3 * b c q2 a c b R * L
+
+TM 3
+cbcbbcaccbabcbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbcabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabbabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 * b c qf1 a a a * R R
+q3 a a a q0 c c a L L *
+qf1 * a b qf0 a * a L * *
+q1 c * * qf1 b a b * * L
+qf1 a b a q3 * b a * L R
+qf0 * c b q1 b a b R L *
+q3 a a a qf0 b b a * * R
+q4 a * c q3 a * b R * *
+qf0 * a c q4 * a c R R L
+qf0 * c a q4 b c c * R *
+
+TM 3
+bbbbaaaacacccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abcbbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cccacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 b c b q2 * b c L L *
+q2 c a * q3 c a b L L R
+qf1 * b c qf0 a * b L * L
+q0 c a b q2 b b c L * L
+q1 b b c qf1 a c b * * *
+q3 c * c q4 c * a R * *
+q1 c b c q2 a * a L * R
+q4 b c a qf0 c * a * L *
+q4 b a a qf0 * a * * L R
+qf0 b a * q4 c a b * R L
+
+TM 3
+aababcccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caaaaabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abacccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 a a c q1 c a b * R R
+qf0 * b * q3 a * c L R L
+q3 b a b q1 * c * L * R
+q1 c * a q4 c c a * L L
+qf1 b c * q0 a c * L * *
+q3 b * a q1 * a b L L L
+qf1 * a a q1 c c b L L L
+q0 * c a qf0 b * a L R R
+q3 a a * q2 b a c R * L
+qf1 b b a qf1 c a a * R R
+
+TM 3
+baaacaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abbbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 a * b q4 * a b * L *
+qf1 b c a q1 b b * R L L
+q1 b c a q2 * b a L L R
+qf1 c b a q0 b c a * * L
+qf1 * c a q1 b a c L * L
+q1 c b a q2 * * * L * L
+qf1 b b c q3 * a a R R R
+qf0 b c * q3 * * a * L *
+q2 a a b qf1 * * b * L R
+qf1 * b b q2 c c c * R R
+
+TM 3
+abbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acaaabaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbcaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 c b a qf0 b * a R R R
+q2 c c c q4 b a * L R R
+q1 c c c qf1 a a c L * R
+q3 * c b q4 c b b * R *
+q4 * c c q4 c c c * L *
+qf0 b * a qf0 b c c * * *
+q1 c a b q1 * b * L L *
+q1 b * * q4 b c b * L L
+q4 c * b qf1 c c a * R R
+q4 a * b qf0 c a b R * R
+
+TM 3
+cccacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbcababbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cccbccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 a a a q4 a a c * * *
+q4 * a c q2 c b a R R R
+qf0 b * a q1 c c * L R L
+q2 * c * q1 a c a * R *
+q4 a b c q0 c a b L * L
+q3 a a c q0 a b a * L R
+qf0 * c c q3 b * a L * *
+q0 c * * qf1 b b b R L *
+q3 b c * q4 b b c * L R
+q3 a * b q2 * c b L * R
+
+TM 3
+aabcbbaaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccaabbbbaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abbccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 a c * q4 * b a * L L
+qf1 b * a q4 c a c R L L
+qf0 * * a q4 a * c * * R
+qf0 b c b qf1 * * b L * *
+q3 * * b qf0 * * c R L L
+qf0 * c b q4 * * b L R *
+q3 * a b qf1 a a a L * *
+q4 a c b q0 a c * L * L
+qf0 c a b q4 b a * * R *
+q1 b b c qf0 b a * R L R
+
+TM 3
+abaabaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+babccbbbcbcbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbcabcbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 a * b qf0 * c c L R *
+qf1 c * c qf1 c * b L * *
+q3 b c a q4 * c * L * *
+q4 * c * qf1 b a a * R *
+qf1 c * a qf1 b * * R R R
+q0 b * * qf0 b c a R R L
+qf0 a c a qf0 b a c L * *
+qf0 a a b q3 * a a L * L
+q3 c c c q1 * c b * R *
+q4 a * c q0 a c c * R *
+
+TM 3
+cbcaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caabbccccaaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbcaaccbbccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 a c b q4 * a * R * L
+q2 c b * q3 a c a * * L
+q0 c c * q1 a a c L * R
+q0 b b c q3 a b a R R L
+q0 b c a q1 b c a * R L
+q1 * * c qf1 a a a L * L
+q2 b b b q1 c * b * * *
+qf0 b * * qf0 a * * L * R
+q0 c * * q0 c * c R L L
+q0 * a a qf0 c c * R L L
+
+TM 3
+abacaaccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbccccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abaccaccabaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 b * b q3 b * * R L R
+q2 c b c qf0 a a a L L *
+qf0 * b * qf1 b a a * R *
+qf0 * * b q4 a * a R R R
+qf0 * c b q0 a a a L L R
+q0 a * a qf1 * * a L R L
+q4 * * c q0 c * c L L R
+q4 a a b q3 c c b * R *
+q1 b * a q3 * c b L R R
+qf1 a a c q3 b c * R L *
+
+TM 3
+bbacbbcbccccbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aabbbaababcbcccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcbbabacaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 c * b q1 c b c L R R
+qf0 a * c q3 b c a R L R
+q0 b b * q1 a a a R L R
+q4 * b c q3 b b c * L R
+q3 c b * qf1 b * c L R R
+q0 b a c q3 * * b R L R
+q4 c b c q3 c a * L R *
+qf0 c b a qf1 b c b L * R
+q2 c b c q3 a * c R R L
+q1 a c a q1 c b c * * R
+
+TM 3
+cabacacbcbabaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaacacabbbcbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabccababnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 c c c qf0 a b * R R *
+q2 a c b qf1 a * a L L *
+qf1 * c a q0 b * b L L *
+q2 * b a q3 b c b L R L
+qf1 * a * qf1 * b a * L R
+q3 a b b q1 * a a R * L
+q4 b c * qf1 * b b * L R
+qf0 a b a q2 b b c L R L
+q2 a b a q2 c b b * L L
+qf1 a * * q1 b c b L L R
+
+TM 3
+bbcbacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+accbabaabaabacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 a c c q4 a b b R R *
+qf0 a * a q1 a a b * R R
+qf1 a a a qf0 b a a L * L
+q4 * a b q2 * b c * R *
+qf0 a c c q0 b * c * L *
+q1 a c c q4 c b b * * L
+qf0 b * a qf1 a c c R L *
+q4 b b b q0 b * c L * L
+q4 * b c q3 b a a L * R
+q4 a a c q2 * b c R R R
+
+TM 3
+bacbbcbabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcacacbbabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+babaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 b c c qf1 a a * * * R
+q3 b a * qf1 b * b L R *
+q1 * b a q4 a b * L * *
+q1 b b a q1 c c b R R *
+q0 b b c q3 b b c * R L
+q4 a c b q3 c a c * R L
+q4 b * b q0 b * b L L L
+q3 a a b q4 a b b * * R
+q3 a * b q2 b b * * R L
+q0 b b b q1 b * * L * R
+
+TM 3
+acbcacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bacccbbccbbbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbcacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 * * * q4 a c c R * R
+q1 * * a q3 b b c R L L
+qf1 b * b q2 b a a * * L
+q4 * a b qf0 b c * L R *
+qf1 * b b qf1 * * c * * *
+q0 * c b q3 * * b R * L
+q0 * b c q4 * c b R L *
+qf0 b * c qf1 b b c L L R
+q4 c c c q2 b * * * R *
+qf0 c c a q4 * c b L R R
+
+TM 3
+bcaabcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbcbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bacccaacbbbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 * * b q4 a a c R * R
+qf1 a b * qf0 a b a R R L
+qf0 * a c qf0 * * a * L *
+qf0 * a * q4 * c * L L L
+qf1 * c b q1 a c b L * *
+q2 a c c q2 a c a L * *
+q3 b a b q4 a * c * R R
+qf0 c b b q1 b c a R L R
+q4 c b a q4 b b a L R *
+qf0 c * c q3 * b b R L *
+
+TM 3
+cabacccccbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bacabbbcbabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acbbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 b b b qf1 c * b R L *
+qf1 * c c qf1 b * b R L R
+qf0 c c b q3 a a a L * *
+q3 * a a qf0 * a a R R L
+qf0 * a a q4 b c b L * R
+q1 * c c q2 a b c * L *
+qf1 * c * q1 * * c R R *
+qf0 a b b q3 * a a R L *
+q2 b * a qf0 c c * R * *
+q0 b * b q2 b c b R L L
+
+TM 3
+bccccabcccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+accaaaaaacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aacbbcbbbacacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 a * a q4 c a * * * L
+q0 * * c q2 a * a R R R
+qf1 b c a q2 * * c * R L
+q2 b b * q4 c a * * R R
+qf0 c * a qf1 * c b * R *
+q1 a * c q1 c b b * R R
+qf0 b * b q1 * b * R L R
+q4 * * b q3 a b b * R *
+q4 a a * q2 c a c L R R
+q2 * * b q0 * a a * * *
+
+TM 3
+babcbbaaacbacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcbbcbcbaabbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aabbaabaccbacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 b b a q2 a b b * * *
+q1 * c b q3 c c c R R R
+q0 c c a qf1 * a a L * L
+q1 c b a qf0 a * a R * R
+q4 c a a q0 c c * L * L
+q1 b * a qf1 * c c L R L
+q1 a a c q2 * b c L R R
+q1 b c c qf1 c * a R R R
+q0 c b c q0 a a a R * *
+qf1 b c * q0 c * b * L R
+
+TM 3
+cbbbbaabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbcaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaababcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 b a c q1 * * b L L *
+qf1 * c c q3 a * b * * *
+q2 c * c q0 b * c L * L
+qf0 b * a q2 b c a R * R
+q4 a * b qf1 * c a L L L
+qf1 b b b q1 * * a R L *
+q3 a c b q1 b c * R L L
+q2 * * c qf1 a c * R L L
+qf1 b c a qf1 c a a * L *
+qf1 c a a q2 * b c L R R
+
+TM 3
+cbcbccbcbacacbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbbbcbbcccbaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cccbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 a c * q2 c * b L R *
+qf1 * b b q2 c * * * * R
+qf1 c b c q3 b b a R L R
+q2 a * a q1 c b a L L R
+qf1 b * * q4 a c * R L R
+q4 a b c q4 * b b R L *
+q2 a a * qf0 b b b L R L
+q4 b * a q2 * c * * L *
+q1 b b * q0 * c * L * R
+q1 b b * qf0 a b b L L L
+
+TM 3
+aaabbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcbbbbcccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+babbcbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 a b * qf0 c a * L L L
+qf0 a b * qf0 b * c R L R
+q2 c c c q4 a * a L R R
+q3 a c a q0 * * b R * *
+q1 a b * q0 c * a R R L
+qf1 * c * qf0 * * c R L L
+q4 a c b q2 b * a R R R
+qf0 * c * q2 b a b R L *
+q4 b b * qf0 c b b L R *
+q1 * a a q3 b b a R L *
+
+TM 3
+acccaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bccbbcbaabccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caabbabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 c * a qf1 * a a L * L
+qf1 * a a q0 * a a * L *
+q1 * a c q1 * c b R * R
+q2 c b a qf1 * a b L * *
+q1 b * a q0 b * c L L *
+q0 a c a qf1 b a * L * *
+qf0 b a c qf1 * a a * R L
+q3 a c * qf0 c a c * * R
+q3 * * a q2 * a c * L *
+q3 * b a q2 a c c L R R
+
+TM 3
+caaccbbcaababnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aacbcccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbcccbaccaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 c b b q0 a b c L L L
+qf1 b a * qf0 a a c L R R
+q2 b a * q0 b a c L R R
+q3 c c * q1 a b a R L R
+q3 b a c qf0 b a a R R L
+q0 c c * q1 * a * * * *
+q1 * a b q3 * c a R R *
+q4 b b * q4 * c b * R R
+q4 b * c q1 c c * * R R
+qf0 c * * q1 b b b R R *
+
+TM 3
+cacaccacaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbbcbcbcccaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 a a c qf0 b a c * * *
+q4 c * b q1 b c b L * *
+qf1 * c * q3 * c c L R R
+q0 b c b q4 c * * R * L
+q3 * * * qf0 a * a L L R
+qf1 c * * qf0 c a c * L *
+q3 b a a q0 b b * * L R
+q1 c * b q2 b c b L R R
+q0 c b * q2 c a b L * L
+q1 c a a q0 * a b * R L
+
+TM 3
+abcbabccccbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbcbabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caacacccabccabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 b c b q0 * b a L L R
+q0 * a * qf1 b * c L R R
+q0 c b * qf0 a b b L R R
+q3 a * * qf1 c b c L R R
+q2 c a b qf1 b * a R * R
+q1 b * a qf0 a a a * L *
+q3 * * b q2 a a b L L L
+q1 * * a q4 * c c * R R
+q4 b c b qf0 * a * L * *
+q2 a a b q1 b a c R L L
+
+TM 3
+babcaacabbbbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbacababccbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbbabccbcbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 b * b q4 b c c L L *
+q2 b * c qf1 c b a * * R
+qf0 b b b q3 c * c R R L
+q1 a b * q0 c b * L * L
+q3 a a * q1 a b * * * *
+q3 c * b q2 b c b * R L
+qf0 * * b q4 b * * R * R
+q4 * * a q3 * a * L * R
+q2 c b * q2 * b b * * L
+qf0 * * b q2 c b * R R R
+
+TM 3
+abbcabbaaabacccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaacbcbcaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cccbaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 * b b qf0 * a c * L R
+q3 a * a q0 b b * R R *
+q0 c a c q0 * c a R L R
+qf0 c b c q2 c a b * L L
+q2 c b c q3 * b b L R *
+q2 c b * qf0 c b * R * R
+qf0 b a c q2 * b c L L *
+q3 b a a q1 * b c L * L
+q4 a c * q2 c a b R R L
+qf1 a a * qf1 * c a R L *
+
+TM 3
+accccacbacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabcabaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbccabcaabbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 c a * qf1 * b * * R R
+q4 c a a q2 * a b L * *
+q1 a * * q1 * a c L R R
+qf0 b b a q1 c * a L * *
+q3 b c * q3 b a b L R R
+q4 b a * q3 b * b * R *
+q4 b b b q2 * * b R * R
+q1 b * c q1 a a * R * R
+qf0 b * a qf0 * c a * R L
+q2 b * * q0 a * * * R L
+
+TM 3
+acabaccabbbabaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbcacaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+accccbaaacacbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 c a * qf1 b a a L L *
+q2 * a b q1 c c b * * L
+q3 b a * q3 b b a R R L
+qf1 a b * qf1 a c b * R *
+qf1 a * b q4 b * a L * R
+q4 c c c qf0 a a b * L *
+q2 a * * q2 b b * L L R
+q0 c a b q2 c a c L L L
+qf0 a a b qf0 a a a R R R
+q1 * a * qf1 b b a * * L
+
+TM 3
+abcbbbccacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcccbbccabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccaaaacbbbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 a * c q0 a * a R L *
+qf1 * * b q1 b * a R L R
+qf0 a * a q3 * * b R L R
+q3 * b * q1 b * b R * L
+qf0 a a b q4 b b a R R R
+q4 c b * q3 a c * L L L
+q4 b * b q3 b c a R R R
+q2 * * c qf0 a a c * * R
+q4 b b * q2 b * a R L L
+q3 c a * q4 * b b L * R
+
+TM 3
+ccbabccaaabbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbbccaaccabcaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaacabaabbbcabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 c c a q3 b * a R R *
+q1 c c * q2 * b b * R L
+q3 a b a qf0 * c a * * L
+q0 b * c q4 c * * * R R
+q0 b b b q3 c c * L * L
+q0 a * * qf0 * a * R R L
+q0 * a c q2 c a * L * *
+qf1 b a a q1 c a c R R R
+qf1 b a c q1 a a c R L *
+q1 c b * qf0 b * b R L R
+
+TM 3
+baabababnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaccbcaacccccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abaccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 b b * q3 a c * L L *
+q3 b c * q4 a c a L R R
+q1 * c b q1 * a c * L L
+q1 * c * q2 b b b L R R
+q4 b c b qf1 b * c * L *
+q1 a b c qf0 a b a L L L
+qf1 a * b q3 c * c L * *
+q1 * b a q4 a b * R R R
+q2 a a * q4 b b b * * R
+q1 a c c q4 b c b * L *
+
+TM 3
+bbbccccccbabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbcbccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+babbbbabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 a a b q4 * a b L L L
+q1 a b b qf1 b b * R * L
+q2 * * b q4 c c c R * L
+q1 a b * q4 * c a L R L
+q0 b c b qf0 b b a * R R
+q0 a c c q2 b b c R R *
+q4 b * * qf1 a a a R R L
+q4 * c b q1 a * b R R L
+q0 * b a q3 * a b L L R
+q1 * a * q1 b c a R L L
+
+TM 3
+abaacbbbacacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbbaaaaacbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 a b a qf1 * * c L * L
+q2 a b * q3 b * a R * R
+q1 b c c qf0 c * a L * R
+q1 a b a q1 c a b R * R
+q1 c * b q4 c c a R R *
+q4 c b b qf1 a b a L * *
+qf1 b * a q1 b c c L R L
+q0 * b a q2 b a c * R *
+qf0 a b * q1 a * b L * R
+q4 * c b q4 * b b R L *
+
+TM 3
+accccaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbbcccccbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbaabaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 b * b q4 a a c R R R
+qf0 b b a qf1 c * * L R *
+q4 a a * q4 a * b L R R
+qf1 a c c q2 c * a R L *
+q1 c b b q0 * b c L R L
+qf1 a c a q0 a c c R * *
+q1 * * b q1 * b a * L L
+qf1 b c c qf0 b * c * L R
+q1 c a c q3 b b b * * *
+qf0 * * * q4 * * * * R L
+
+TM 3
+accbcbcbacaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbaabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acaacaccbbabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 b b c qf1 b a b * * L
+qf1 a c b q4 c b c L * L
+q4 c a b qf1 c a b R L *
+q0 b * * q2 * a a R * R
+qf1 * b a q2 * a * R L L
+qf1 b c c q0 * c a L R R
+q2 a c * q3 c c a L * *
+q4 * b a q1 c b * R R R
+q2 c c a q3 b b * R R R
+qf0 * a c q3 c b c L R *
+
+TM 3
+baaaaaabacccabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcbcccacaacacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbbcbccbbbabbcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 b b a q4 * b a L R *
+qf0 a b a q4 b c * R * *
+q1 b * a q1 * c c L L R
+qf0 a * a qf0 b a b R R R
+q4 b a a q0 b * c R * *
+q3 b c b qf1 * * b L * L
+qf0 a * b qf0 a * a * L L
+q0 c * * q2 a a a * * R
+q0 * b b qf1 c a a L * L
+q1 b * c qf1 * b b R R *
+
+TM 3
+bababcbccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aabacbababacaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+accacbbbcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 b a * q0 a b b R * R
+qf1 a c c q2 a a a * R L
+q3 * * c q4 a c b R L R
+q2 * a a q3 c a a L * *
+q2 * c c q1 a b c L * R
+qf0 * a a q0 c c a * R L
+q2 c c b qf1 * c c L R *
+q3 a a c q1 b c b L L *
+q3 * c b q3 a c b * R R
+q4 * a a q4 c * b L * L
+
+TM 3
+aacbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baaacbabcabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 b * a qf1 b a b * * L
+q1 a b a qf0 c * a * R L
+q0 c a * q3 c b a * R *
+qf1 c b * qf1 c c b L L *
+qf0 a * * qf0 a a * * * *
+q1 * * a qf0 * * a R L L
+q1 b c b q3 * c b * R R
+q0 b a b q4 c * c R * *
+q3 c b a q3 c a * * * R
+q1 a * b q2 b c b * L R
+
+TM 3
+aaaaaccbcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abacccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 b b * qf0 * b c R * *
+q1 c c b q2 c c a L * *
+q2 b * c q3 c b * L L *
+q3 a b b qf0 a a a L * L
+q3 c c * q4 * * c L R L
+q4 * b c q0 c c b * L *
+q3 * b a q0 c * * R L *
+qf0 c b * q3 a * b * * L
+q2 a c a q2 * c * * * *
+qf1 a b b q4 c c * L R *
+
+TM 3
+acaaabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaababaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acbbcbcbbcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 c a a q3 a c a * L *
+q4 * * a q3 c b * R * L
+qf1 a b a q0 * * a * * L
+q3 b a a q0 c b * L R L
+q0 * c * q4 a * c L * *
+qf0 c * * q3 b a * * R R
+q1 * b c q4 c c c * * L
+qf0 a * c q0 b * b L * L
+q1 b c a q0 b a b R * L
+q2 b * c q4 * c * L R R
+
+TM 3
+ccbabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abbabbbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbccabbabcccbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 b b a q0 * * * * R L
+q0 a b c qf1 b b c R * L
+q1 * b * qf0 * * c * L *
+qf0 a * c qf0 c * b * * *
+qf0 b b a q2 b c * R * *
+q4 b b * qf1 b a * R L L
+qf0 * c c q0 c a c L L *
+q4 b b c qf1 b * * L L L
+q4 * b b qf0 * c c R * R
+qf1 c c b q1 a c b * * L
+
+TM 3
+bccbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abccccaacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cccabaccabbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 c b * q4 * a * * * R
+q2 a b a q3 c a a * R *
+q2 * a a q0 * a c * * *
+q4 c c a q2 c * c R * L
+q2 a a a q3 b c a L L R
+q4 b * a q2 * c c R * L
+q0 b a b qf1 b b a L R L
+q3 c a b q1 a c b R * *
+qf0 * * b qf0 * * c L R *
+q2 c c * q2 * * b L L L
+
+TM 3
+bccccaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bccababbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baacbbababnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 c a b q3 a c b L L R
+q4 b * * q4 a * a R R L
+q2 c a c q3 a * b L * L
+qf1 a a a q1 a b c R * *
+q4 a * * q2 * c c R L L
+q4 b * b q4 c b b L L *
+q4 c a a q3 a * a L * R
+qf1 c a c q2 b * a R * R
+q3 c a * q3 * * * * * *
+q4 c a a q1 * * * * L *
+
+TM 3
+accabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbaaaaaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbacbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 * * b q1 * a c * L *
+q3 * c a q1 c b b R R *
+q2 b * b q3 a a * * L *
+q0 a a c qf1 b c a * * L
+qf0 * c c qf1 b a c R R *
+qf0 c c b qf1 a c b R * *
+q2 * a * q1 a b a * * L
+q0 c c a qf1 a * c L * R
+q2 a b a qf0 a c c L * R
+q3 a b * q2 * b b R R R
+
+TM 3
+cbccbcbbcaccbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbbacbbaababbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcabbcbcbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 b a b q3 * b * R R L
+q3 b * * q0 b c c * * R
+q2 * b a qf0 c * b R * R
+q4 a b a q0 a c c * * R
+q4 c c b qf0 c a b R R R
+q1 * b c q1 a c c L * R
+qf1 a b c qf1 a * c * * R
+q4 * b c q1 a a a L * L
+q0 b a c q4 * a * L * L
+q4 b a * q2 a c * R L *
+
+TM 3
+cabccccbcbbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baccbabccbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbacccbabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 a a a q1 * c * * * R
+q3 c c * qf0 * b b * * *
+q1 b b a qf1 c * * * L *
+q3 c c a qf1 * a a * R L
+q3 b b * qf1 c * * L R L
+qf0 a * c q1 * b * * R L
+q1 * c c q1 b a * L R R
+q4 a c * qf0 c c a R R *
+q0 a b a q3 c b c R R *
+q4 c b a q4 a a c * * L
+
+TM 3
+cccaabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccacabbbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbaaabababbcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 c * a q4 b c * R L R
+q3 b * c qf1 a c * * R L
+q4 b c c q1 c b c * * L
+q3 b * c q4 a a a R R L
+q1 c c a q0 c b c R L R
+q1 a b c q1 c b * L * L
+q3 * b c q0 c * c R L R
+q4 b c c qf0 a * c L * R
+qf0 * a c qf0 c b * R R R
+q1 b b b qf1 b * * * R L
+
+TM 3
+cbbbcbcbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abacbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baabcbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 * b c qf1 c a c L R R
+q1 b * a q4 b a c * * *
+q4 * b a q4 c c a * R L
+q3 c c b q0 c a b R * R
+qf1 a b * q0 * b * * R *
+qf1 * a a q4 b c a * L L
+qf0 b b b q4 b a * L L L
+qf1 a b a q2 b a * R L *
+q2 c a a q1 * b c L * L
+q0 c c c qf0 b b * L * L
+
+TM 3
+bacccbacbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcaccabcbbacbbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abbabbabbbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 c b a q2 * a a R L R
+q2 c * a q4 * c * R L R
+q0 a * b qf0 a * * * * L
+q2 c c c q0 a * c R L L
+q2 c a a q1 a b a L * *
+q2 c * * q2 * * a L * R
+q0 b c c q4 b b * L L *
+q0 a a a q0 * b c * R *
+q1 c c b q2 b c * R * *
+qf0 * c a qf0 * a b * L *
+
+TM 3
+cbbcbbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbaaccbcacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+babccabaaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 * * c q0 c b a L * L
+q1 a b * q2 c b * L * L
+q2 a b * q2 c a * * R *
+qf1 * c a q4 * c c * L R
+q4 b * * q0 b * b L L R
+q0 a a b qf1 b b a R * *
+qf0 * * * q0 c b * L L R
+q4 a b b q0 b * a L L R
+q1 c b * q4 c b c R * R
+q1 c * c qf0 c * a * L *
+
+TM 3
+bcabbbcabccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cccacbccaaaabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbaababcabcabaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 c b a q3 * c a * * R
+q0 b a c q2 a b b * L R
+q1 b b c q4 * * c * R L
+q3 * b a q0 c c a L * *
+q0 * a b qf1 * b c R L *
+q2 a a a q1 a b * L R L
+q3 b a c q3 b c c * R R
+qf1 * * * q1 b * a R L L
+qf1 * c c q3 a a * R R L
+q2 b b * q3 a b * * R R
+
+TM 3
+bacbabcccbbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acccccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbccabacbbcacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 c c b q0 b b a R * L
+q4 * c b q3 a a c * * L
+q2 a c c q1 * b b L L *
+q0 * * * q4 * * * L L *
+qf0 c b b q1 b b a * R R
+q1 b a b q1 a b a L R R
+q2 * b a q0 c * * L R R
+q1 b * * q4 * a * L R L
+qf1 a * a q2 * c b R * L
+q1 c * a qf1 c b a L L R
+
+TM 3
+cacacabaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abcccbcaabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbcbabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 c a c q1 b * a R * *
+q4 c * a q2 b c c L * R
+qf0 a b * q0 c c a L R *
+qf0 * a c qf1 b * b R * R
+q0 c * * q4 a * * * R L
+qf0 * * c q4 a a b * R L
+q3 b a a q4 c * * L L L
+qf0 c a b qf1 a b a R L L
+q3 b c b q3 a b * R * R
+q3 b a a q1 b c b * L R
+
+TM 3
+abcccbbabbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+babcbcbbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcabaabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 b c b q0 b a b L L *
+q0 b * b q0 c c * R R L
+qf1 c b a q1 * * a L R L
+q4 * a * qf0 c a a * * *
+q1 * c a q4 b a b R L *
+qf0 * c a q2 c a b L * R
+q2 a c b q1 * c * R R L
+qf0 c b * q3 c b c * * *
+qf1 c * c qf1 b c c R R L
+q4 b * * qf1 * c b R L R
+
+TM 3
+babbccbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+accccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 a * c q3 a c c L L R
+q3 c c b q4 b * * R L R
+qf0 * * c q3 c c a * * *
+q4 * c * q3 b a b * * L
+qf0 c a * q3 a b c R R L
+q2 b a b q2 b c c * L R
+qf1 * a c qf1 * a b * * L
+qf1 * * b q0 c a * * * R
+q3 c a b q0 a b a R R R
+qf1 c * b qf1 b * a L R *
+
+TM 3
+acbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcccbabbaababcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbcabbcbbbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 * b b q4 a a a * L R
+q1 a a * q2 c * b * R R
+qf0 c * c q2 * b b L L R
+q4 a a c q4 b b c R * L
+q0 b a a q2 b b c R R *
+q4 a * b q4 b * b L L *
+q2 * a * q2 c c b R L *
+q1 * * * q1 b a b L * R
+q1 b a a q2 c * c R * L
+qf1 * * b q4 c c b L R *
+
+TM 3
+abcbaabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cccacaabbccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbccbaacbacbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 c b * q0 * c a R * L
+qf0 a a a qf0 b b b R L *
+q3 * c b q1 * * a R * *
+qf0 a b c q1 * a c R L L
+q2 * b a q3 c * a * L *
+qf1 * c c q0 a * b * R L
+q0 c c c qf1 a a b R R *
+q1 a * b qf1 a c a R L *
+q0 a a * q2 c c a L L *
+q1 a * * q1 a b a * * *
+
+TM 3
+abbabbbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+babaababbcccabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cccaaccaccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 b b b q1 c c * L R L
+qf1 a c c q1 * b a L * L
+q0 b * c q1 a b a R * *
+qf1 * c c q3 a b b L L L
+q2 b b c q1 * b * * L L
+q0 c * c q0 a * * L R R
+q3 b a b q4 b a a L R *
+q1 a b * q2 * b c R L R
+q2 b b * q3 b b c L * R
+q0 * b * q1 b b c * * *
+
+TM 3
+caabccbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbabaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbbaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 c a * q2 a a b R * *
+q4 c b c q2 * b b L * *
+q1 * c * qf1 a c c R * L
+q1 c * c q0 b a c R R R
+q2 c c a q0 c b c * R L
+q4 a b * q2 a b c R * L
+qf1 c c * qf1 c * * R * L
+q1 a b a q4 * * a * R R
+q3 a * * q3 * * * L R R
+q0 c c * q1 * c * R R L
+
+TM 3
+cabcaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bacbbbccbaabacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cacabccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 b b * qf0 b * a L L *
+qf1 a * c qf1 a c b L * L
+qf0 a c a q2 b * a R L L
+q1 c * a q2 * * a * L *
+q2 a c c q3 a * b * * L
+q4 c c b q1 c b c R * L
+q3 b c * qf1 b a * * * L
+qf0 a a c q2 b c * R * *
+q1 c a a q0 a a c L * *
+q0 c c * q0 a a * L R R
+
+TM 3
+ccbbaaaaaabcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabbbbacabcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcbbccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 a b a q4 c a a R * *
+q3 b a c q2 b c b R R R
+q3 b a c q1 c * c L R *
+q1 b * b q2 a c b L * L
+qf0 b b a qf0 b * * * * *
+q3 * c b qf0 a * * * * L
+q1 b c b q4 c * b L L *
+q1 a c a q3 c c c R R L
+q1 c c b q3 b a b L * L
+q2 c a c q0 b c b R L *
+
+TM 3
+aabbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cccccbbaacbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aababaccccaabbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 * b b q0 * c b * L R
+q3 b a b q1 * c c R R *
+qf0 b a a q2 a a b L R *
+qf0 b b a q4 * c c * R *
+q3 c c * qf1 * b a R * *
+qf0 b * c qf1 b a a * L *
+qf0 c b a q1 c * a L L L
+qf0 c b b q4 a a c * R R
+qf1 b * a q1 * a c L L *
+q3 c c * q4 a a * L L *
+
+TM 3
+ccbbcacbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaaacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbacbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 b c c q0 b a c * R R
+q3 c a c q2 b * b L L L
+q0 b b b qf0 * c b * R R
+qf1 b b b q3 * a * * L L
+q2 c a b qf1 * c b * * *
+q0 a a c q2 a b c * L R
+qf1 b b c qf1 c c b R * L
+q3 * b * q3 c b b R * R
+qf1 c a a qf0 a b * R L *
+q1 * b a q1 b c b R * L
+
+TM 3
+cbcbbbbabcaaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccccabbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bacaccbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 c a a q1 b * * R * L
+q2 b a b q1 c b a L R *
+q1 c * b q3 c b * R R R
+qf1 c a c qf1 c a b R L L
+qf1 b a * q3 * a b R L *
+qf0 c a a q3 b a a R R *
+q2 a c a qf1 * b a R R L
+qf0 * a * q3 a c * L * *
+qf0 b * * q3 b * * L R R
+qf0 b a c q2 b a b R * *
+
+TM 3
+abaababbabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bccbaaaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 c b c q1 c b * L * *
+q3 c a c q1 a b c L R *
+qf1 * a a q4 * c a L R *
+q3 b a c q0 a b * R L R
+qf0 a a c q4 a b * R * *
+qf0 a a c q2 * b * L L R
+q3 * * b q2 b b b L * L
+q1 b a c q2 b c a * L *
+q1 c * b q1 b c a R R L
+q4 c a a q3 c * b R * L
+
+TM 3
+aacabcbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cccbccbbcaabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbabbbaaacbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 a c c qf0 a b c L * L
+q0 b a a q2 a a c R * *
+qf1 * a b qf0 c * c * R *
+q0 a a a q3 a a a L R L
+q4 c * c q4 c b * L * *
+qf1 a * b q2 * b a L L L
+q0 c * * qf0 c a c * * R
+q2 b * a q3 c * a L R *
+q0 c c b q1 a c * * R *
+q4 c c b qf1 a b b * * R
+
+TM 3
+bbcbccbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabaaabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbbcaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 c b * q4 * c a L L L
+qf0 a c c qf0 a * b L L *
+q0 a c b q2 * a a R R R
+qf0 * * c q4 c c a * L R
+q2 * * c q0 * * a R L *
+q3 * b c q2 a c b R R R
+q1 a b b qf1 * * * R * L
+qf0 c a * q1 c * c L R L
+q3 a b a qf0 a * b L L L
+q2 a c a qf0 * * c * L L
+
+TM 3
+acababacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baaaccaabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caaaacccbcbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 c * * q1 * c a L * *
+q2 * * c q2 c b a L L *
+q0 * * c qf1 b * b L R L
+q3 c * b q3 * a * R * L
+q2 c b c q2 * a c * * R
+q2 c * * qf1 c b b * R *
+q2 c a a qf1 * * b * * L
+q3 a c b q3 c c c L L R
+q1 * c c qf1 c b c R * R
+q2 b a c q0 * c b L * L
+
+TM 3
+bcbaaaccbcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aabbbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabbccbacabbbcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 b b c qf0 a c a * * *
+q4 a a * q1 b c a * * R
+q4 a b * q1 * * * * * *
+q3 c b b q0 * c a * * *
+q1 * a b q0 * b c L L R
+q4 * b c q3 b c * L R *
+q2 * * a q4 b a a L R *
+q0 a b * q2 * * c * * *
+q2 a c a q3 c c a L * *
+q1 a b c qf1 b a b L * R
+
+TM 3
+bbcccbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acabbcabbabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baaaacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 a c a q2 a b * L * *
+qf1 a b c q0 b b * R L *
+qf1 * * c q1 * c a * R L
+q1 * * b q4 b b c L * R
+q2 * c b q2 c b c * * L
+qf0 * a a q4 c * b L R L
+q4 b b b q1 * c * * L *
+q3 a a * q4 * c c * * L
+qf1 * a * q1 c c * L L *
+q0 c * a q2 a c a R L R
+
+TM 3
+acbbababbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaaabbcaccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+babcbcacbbbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 c c c q2 a * a * L R
+q1 b b * qf1 c c b R * R
+q4 * c c q0 a a c * R *
+qf1 * * b q4 c b c * R L
+q3 a * b q1 * * a * * *
+q2 c b b q3 b a a R R R
+q3 a * b q4 * * c L R *
+q4 * c * q1 * b b * * L
+q4 c * a q3 a b c R L L
+q1 b b a q3 a c a L * R
+
+TM 3
+cbcccbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abcabaacacaabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaabacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 a a * qf0 c b b L * R
+q1 c * c q2 c c a R * R
+q3 a a b q2 * * b L R R
+q1 c a c q4 a b b * * L
+q1 a * * q2 b c b * R R
+q3 * b c qf0 a a a * L *
+qf0 b * b q0 b c * L * L
+qf0 b a b q2 * a c * L L
+q4 b b b qf1 b a b R * L
+qf1 a c a qf0 c a c L L R
+
+TM 3
+acaccbcccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbbbbbcabbcbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cababaacacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 c b a q4 b * a L L R
+q0 b a b q3 * a * * R L
+q4 c a * qf0 c a c R * R
+q1 a a b qf1 c b b * R *
+q2 a c c q4 * b c R * *
+q2 b c a q2 b a * L * *
+q1 a b * q4 c b a R R R
+qf1 a c a q4 a c c L * R
+q4 * b a q1 c b c L R L
+qf0 b c * q0 b b * L R *
+
+TM 3
+aabbaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccabbbcbbabcacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcbbbccabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 * * b q2 c c b R L R
+q2 c c a q1 * a a * * R
+q1 c c c q0 c a b * R *
+q4 a c a q3 a a b * R R
+qf0 b a c q1 a b c L * R
+q4 a a c q0 b b * L R *
+qf0 a b * q0 c a * R R *
+q3 b b b q2 a c * L R L
+q4 c c b q0 c c a R L *
+q1 c a * q2 b b b R * L
+
+TM 3
+bcbccacacbcccabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbccbccbacbbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 a * * q0 c b b R * R
+q2 a * c q1 a c * * * L
+q2 * a b qf1 * * a R L R
+q2 * b b qf0 a b a R L *
+q1 a b a q2 * b b L R R
+q0 c c c q0 a b * * R *
+q0 * * b qf1 * a c L L R
+qf1 c a a qf0 * a * R * R
+q3 a b b q4 a c * * R R
+q1 * * c qf1 c * * R L *
+
+TM 3
+cbcacbabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bccbbbbaabcbabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abcbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 * * b q2 a * * R R L
+q1 b * c q4 c c a R L L
+q4 * b b q0 b c c * R R
+q1 b a c q2 c c a L L *
+q0 b a a q4 c a c R R L
+q1 * * b q2 b c * L R L
+q4 b * * qf1 c c a * * *
+qf0 a b c q0 * a a L R L
+qf1 b a c q1 a * a * L R
+q1 a c a q3 a b c * R R
+
+TM 3
+caacbcccabaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cccbaababababnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbacabaaccbacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 b c b q3 * * c R * R
+q3 b * a q2 c a * L R R
+q0 * a b q4 c c b * L *
+q1 a * c qf1 * c c R R R
+q3 c c * q4 a c * L R L
+q0 a b c q1 * * * * L L
+q4 b b b qf0 b b c R L R
+q1 b c b qf1 * * * R * R
+q3 c a b qf0 a a c * L R
+q4 c c c q3 b c * L R R
+
+TM 3
+bacbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcbabbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabbaccaababcbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 c b c q1 a * a R R *
+q4 c b c qf0 b a * * L *
+qf1 * c a qf0 * * c R R L
+qf1 a * * q3 c c b * * R
+q0 a * b q2 c * b R * L
+qf1 b c c q1 a c b L L R
+q0 c b c qf0 * * b * L *
+q3 a c * q0 b * c * * L
+q0 * a a q3 * * * L R L
+q4 c * b q4 * a b * * R
+
+TM 3
+cacaabacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aacaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabaaabbabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 * b b q3 c a a * L L
+q0 b * b q0 a a b * * L
+q0 * c b qf1 a b * * L L
+q2 a * * qf1 a a b * * *
+q2 a b * q1 a b c L L *
+q2 b c a q4 c b c * * L
+qf0 b * c q4 a c c L * R
+qf0 b b c qf1 c * * * R R
+q4 a b * q4 b * * L R *
+q4 c c b q0 * c * * * R
+
+TM 3
+bbabbcbbaacbbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+babbbccccccabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baccacabacbcaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 * * b qf0 b b * * L L
+q2 c c b q0 c c a R * R
+qf0 b c b qf0 * * * R L *
+qf0 * * a q4 a c c L * *
+q3 a * * q4 * a a R L R
+q2 b a * qf1 c c * L L *
+q0 * b a q4 c c c L L *
+q0 * b a q0 c b * R L *
+qf0 b b * q0 c a * R L *
+q3 c a a q4 c a a * L *
+
+TM 3
+baaaacbaabbabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abacbabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccabcaccabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 c b c q3 b a c R L *
+q1 b a * q0 a a c L * R
+q0 a * a q4 b c * R L R
+qf0 c c * q3 c b c * * R
+q1 b * a q3 b * * R L L
+q4 b c a q0 * b * * R R
+q4 * * c q0 c b b L R *
+q2 a c a q4 b c a * * *
+qf1 * b c q4 b c * R * L
+q1 * b a q0 c * c R L L
+
+TM 3
+bbacbccbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbcccbcbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcaabacbbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 c c * qf0 b a c * R R
+q2 b c c qf1 a b * R * R
+qf1 c c c qf0 * * a R R R
+qf0 a * a qf0 c c c L * L
+q2 c * a q3 a b a R L *
+q1 * b c qf0 a c b R * L
+q2 * b a qf1 b b c L R R
+q1 b c b q1 c c * * * R
+qf0 a b a q3 b a a R * R
+qf1 * * c q1 c a c * * R
+
+TM 3
+bccaccbbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbccbcbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbccbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 c a * q1 * c a L R R
+q3 a b a qf0 b c c L R L
+qf1 * c a q4 * * b * R L
+q1 * * a q1 * b c * L R
+q1 * * b q3 * * a * L R
+q0 c * c q0 a b a R * *
+q0 * b c q1 b * * L L R
+q0 * * c qf0 b c b R R L
+q1 b b b q0 c b b L R R
+qf1 b * c q1 c b b R L *
+
+TM 3
+cabbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbcbaababccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acbabacaccbccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 * * * q1 * c b R L *
+q4 a c * qf1 a c a * R L
+qf0 b c b q0 * a a L R L
+q0 b * * q4 * * b R * R
+q4 * c * qf1 * * a * R L
+qf1 b b b qf1 a b c * * *
+qf1 * * c q1 a b b R * R
+qf1 b c c qf0 * a c L R L
+q1 c b c qf0 c a a R * R
+qf1 * a * q0 a c a * * *
+
+TM 3
+bbbbbbaccacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+accacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abbbbbbbbcbabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 c c c qf1 b * b * R L
+q3 b * b qf0 c a b * R R
+q1 c c c qf0 c b c L R R
+q1 a c * q4 c c * L R L
+q2 b * b q1 b c * * L *
+q2 * a * q2 * c b * L *
+qf0 b c b q4 * a b R L R
+qf0 b b c q0 a * * R * R
+qf1 c b c q3 * b * L * L
+q4 a b c q3 c a b * * *
+
+TM 3
+cbacabbbbcaccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbcbccbacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbaabcbcaccacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 b a * q3 b b c L L R
+q3 c a c q1 c * * R R *
+q1 b b c qf1 * * c L * R
+q3 * b * q3 b a * R * L
+q4 * b * q4 c * a R * L
+qf1 b a b q0 b * a L R L
+q0 a a c q1 a b c R L L
+q4 b c * q1 a a b L * R
+qf1 * a c q2 a c b L L *
+qf1 a b c q0 a * * * * *
+
+TM 3
+aacbabcbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbccbcbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcbabbbaacbccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 * * a q0 c * a R * R
+q4 b b b q0 a c * * L *
+q4 a c b q1 a a c * * L
+q0 c * a q2 b b a * * *
+q2 b a c q4 a b c L * R
+q0 * a a q2 * * c L R L
+q3 * a c q0 a * c L R L
+q4 b * b qf0 b * b L L *
+q0 a a c q2 b a c L L *
+q1 * b a q1 b a c L * L
+
+TM 3
+ccabbcaacbabbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccaabcabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acbaccccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 b a b qf1 c c a L L R
+q0 a c * qf1 * b a * R R
+q0 b a a qf1 b b * * * R
+q2 b a a q0 a c * R L *
+q0 b c b q0 a c b L R L
+q0 b b a q4 c c * R * R
+q3 b b b qf0 a * b L * *
+qf1 * c a q1 c b c L R L
+q4 c c * q1 a c a * R R
+qf1 a a * qf0 a b * R L R
+
+TM 3
+bbccbaaaaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaccbcabbaabbccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbbbbabccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf0 b b * q2 b a * R R *
+q1 c a c q1 b * c L * *
+q3 a * * q0 c * b * * R
+q0 * a c qf0 c b c * L L
+q1 * c c q2 b c b L L R
+q2 a c * q2 a b b * R R
+q4 a c * qf0 c a * L L R
+q4 c c * q3 a c a L R R
+q3 b a b q0 a * c L R R
+qf0 * * b q0 a c a R L L
+
+TM 3
+caccaaccaaccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bacbcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cacbcabbbaaabacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 a c a q0 * c * R L L
+q1 a b a q1 * c c L * R
+q3 a c c qf0 b c * L R R
+qf0 a * a q3 * c * L * *
+q0 c b * q3 c c * * L L
+q3 b b c q4 b a b * R *
+q1 * b c q3 * c a * L *
+qf0 b * c q1 c c b L L L
+q2 c b * qf0 * b * L R R
+qf0 c c a qf0 a * * * L *
+
+TM 3
+bcacabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ababbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+babbaabcabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 b c a q1 a c c L L L
+q1 b b a q3 c b b L * L
+q1 * c a qf1 * a c L L *
+q0 a c b q0 c * a R R *
+qf0 b a b q0 c a a R L R
+q0 c a b q3 c c a R R *
+q4 * * b qf1 * b * L * R
+q0 b c * q1 b * * * R *
+qf1 c * b q2 a b * L L *
+q1 c * * q0 * c c * R L
+
+TM 3
+bcabcaccabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bacabcacbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbcacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 c c a q3 a a c R * *
+qf0 b c * qf0 c b c R * *
+q1 c c a q3 b b c L * *
+qf0 a b b q2 * * a R * *
+q4 c a c q1 a * c L R *
+q2 * c c qf0 b a a * L L
+qf1 a a * q2 c a c L R L
+q4 a c b qf1 c c * R L L
+qf0 c * a q3 a * b L * L
+q3 b * b q3 a a c * * R
+
+TM 3
+abcaacbcaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abbcccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ababaacaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 * b * q4 a b b L * L
+q1 * * a q0 a b * * R R
+q0 * a c q1 c * c * L L
+q1 * * c qf0 b b a R R L
+qf0 a b c q4 * a c R R *
+q3 c b b q0 a * c L L L
+q2 b c a q0 * a a * R *
+q1 b * a qf0 a c c R R *
+q2 a * a q3 a a * L L *
+q4 c * c q1 a b b R R R
+
+TM 3
+aabbaccbacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aacacccccaabcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baccbbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 c c b qf1 c a a R * L
+q2 c c c q3 c b b R L L
+q1 c b b qf1 c * * R L R
+q3 a b * q2 b b c * * *
+q2 a b * q3 c b * L R *
+q3 c * * q2 c * c * L *
+q3 c a * q2 * * c * R R
+q0 a c a q3 a c a R * R
+q4 a b a qf1 b b c * R L
+q0 b a * qf0 c c a R * R
+
+TM 3
+cbaaaabbbaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bccbabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccabbcbbabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 * c c q2 c a * R R *
+q0 * c c q1 * b c * R *
+q0 a * * q2 b b a L * *
+q4 c b a q1 b a * L * R
+q0 b a a q2 * c a * * *
+q1 b b b qf0 b b c R * L
+q4 c * c qf0 b c a L L R
+q1 c b * q2 a a b R R L
+qf0 a b b q3 a a c L L L
+q3 b c b qf0 b a a * R R
+
+TM 3
+aabaaacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aacbbaaccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbacbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 a b a q0 a a * R * R
+q2 * a * qf1 c c c * L R
+qf0 a b * q3 * a b * * L
+q3 b c b qf1 b * * R * *
+q4 c b a q0 c * c R R R
+q4 a b c qf0 a * c * R *
+qf1 b c b q2 a * a * * R
+qf0 * c * q4 a c c * R R
+q0 c * * qf0 b a * L * R
+q1 c c a q4 a b a L R L
+
+TM 3
+acabccbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bacaaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbaaacbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 * c a q2 * a * R R *
+q1 c c b q1 c c c L R L
+q3 * * b qf0 a * a R * L
+qf0 a a a q0 * b a R * *
+qf1 b c a q4 c c c L L R
+q4 a a c q3 * * a L * L
+q0 b a c q1 b c a * * R
+q3 b a b q0 * * c L * R
+qf1 b c * q2 c a * * R L
+qf0 * c b q0 c a b * L R
+
+TM 3
+cccaaacacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcaacaccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbaacannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 a c a q1 * a c L L R
+q4 * b b q1 * a c * L R
+q2 a b a q4 c a a * L R
+q2 c a c q2 b b c * R *
+qf1 * a b qf0 c a c * R *
+q2 a b c qf0 b * b L L L
+q2 * * a q1 a * b L R L
+q1 a b a q3 a c a * * L
+q2 c c * qf0 b c b * R R
+qf1 a a * q4 b * c L R L
+
+TM 3
+cbbbabbaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acccccbbacbbabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+baaacbaababnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 c * b qf1 * a b L R R
+qf0 b * a q0 c b c L * L
+q3 a * a q4 a c a L R *
+q0 c b b qf1 * * * L R L
+q2 a b b qf1 a * * R * *
+qf1 * * * q0 c c a R L R
+q0 c c * q1 b c c R R L
+q1 * a c qf0 * c * L * *
+qf1 a b b q1 a c b R * R
+q3 a b * qf1 a b a R L R
+
+TM 3
+bababnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+babccccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caaabababcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q3 * a b q3 c c a * * R
+qf0 c a c q0 b b a L R *
+q0 c b a q4 * b c R L L
+q3 c a b qf1 c a b * R L
+q2 a * b qf0 * * * R R *
+q2 b b a q4 * a a * R R
+q0 c c b q1 * c b * R L
+qf0 a b * q3 b * c L R L
+q3 * a * q2 c c * L L *
+qf1 a b c q2 c a c L R L
+
+TM 3
+acbbccbcabaaabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abbcbcabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abcbcbabbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 * a b qf0 b a * L L R
+qf0 * c b q2 b * c * * R
+q4 a * * q1 a * c * * L
+q3 * a c qf1 * b c L R *
+qf1 a * c qf1 a * * R * L
+qf1 c b a q0 * a a L L L
+qf0 * b * q2 b * b L R L
+qf0 a c a q4 c b a * R L
+q3 * b b q1 c c b L R R
+q1 c b * q1 b b a R L *
+
+TM 3
+bbabaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbcabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abbcbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 b b c q4 * * * R L L
+qf1 a c b q3 * c b R * *
+q4 c a b q2 a b b * L R
+q0 * b * q4 a a b R L *
+qf1 b * * q3 a b b * L L
+qf1 * c a q0 a b c * L L
+qf0 c c c qf0 c c a R R *
+q0 * b b q1 b c a * * R
+q1 c c * qf1 c b c R R R
+qf0 a * c q4 * a b L L L
+
+TM 3
+accabbbcbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abcaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abbbbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 c b c q3 c * * L L L
+q0 c * * qf1 * * b * * L
+q1 b * a q2 b * c * L L
+q2 c a * qf1 a b b * L L
+q1 a * a q4 a b b L L *
+qf0 * c c q4 a a a L L L
+qf1 a c c q4 c a b * L R
+q3 a a * q3 c c a R L L
+q2 * b c q3 b b a L L L
+qf1 a c b q0 b b * R * L
+
+TM 3
+babacabcccbabcbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bcacaabacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+babaaabcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q1 a c b q2 * c b L L *
+q2 a a a qf0 a * * L * R
+q3 b a * q2 c c a L L *
+q2 c a a q4 c a a * * R
+q4 * c * qf1 a b a * * R
+q3 b * b q2 a b c L R L
+q3 * a * qf1 a a a R * L
+q3 a a a q2 b * b * R L
+qf1 * a a qf0 c a * R * R
+q2 * * b qf0 a c a R L *
+
+TM 3
+bcaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+caccacabbabbcbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cabbbaaacbcaabcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 c b b q2 * * b L R L
+qf0 a c * qf1 b a * * * L
+q2 c * c q1 * a b * R L
+q1 c * c qf1 a * b * L *
+qf1 a * c q0 a c c R * R
+q2 * * b qf0 b a b * * *
+qf1 a * b qf0 c c c R * R
+q4 c * * qf1 c a b L * R
+q2 * a c q1 b * c * * L
+q1 c b a qf1 a b b R * *
+
+TM 3
+ccabbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aaacaccnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbcacbbabcbannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 a a b q3 b a a R * *
+q0 c b * qf0 b a * * L *
+q2 a c c q1 b c c L L R
+q0 * b c q0 b b b R L L
+q1 c * c q0 * b c * * L
+qf0 a a a q4 b b c R L R
+q2 b c * q0 * a b R * *
+q0 b a b q4 c c a * R L
+q4 c * b q0 b c a R R R
+q2 * * c q0 * * b * * L
+
+TM 3
+bccaaaaabaaaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+cbbbbaaababbcnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+babaaabannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 a a b qf0 b c b R * R
+qf1 c c * q3 c c c L R R
+qf0 b a * q3 a b c L R R
+qf1 b b b q4 c b * R * R
+q1 c * c q1 b b b R L R
+q3 c a a q0 c c * * * R
+q2 a a b q2 * c b R R R
+q1 * * a qf1 c c a * * R
+q1 c * c q0 * c a R R *
+q1 c c c qf1 * b b R * L
+
+TM 3
+bbbcbacbacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+aacccbccbcannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bbacbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q2 b * c q0 c a * L L R
+q4 c b a q1 b a a * R R
+q1 * c b q4 b a c R * R
+qf1 a * b qf1 a a a L L *
+q4 b a a qf1 a b c * L R
+q0 c c * q4 a a a * R R
+q2 * * * q2 c a c L * L
+qf1 a c c q1 c b c R * L
+qf0 * * a q0 * b * * * R
+q3 c b c qf0 c a b L * *
+
+TM 3
+abaccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bacaaaaaabnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+bacbccbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q4 * a a q1 * b b * * *
+q2 a a c qf0 b b b L R *
+q4 * a * q1 a b b * * L
+q3 b c * q0 b c b R * R
+q1 c b * qf1 * b b R R *
+q4 * a * qf1 c c * * R L
+q2 b a a q2 b a c * * *
+q2 c * c q0 c b * R L L
+qf1 * * * q0 b * a * L *
+q1 a * * qf0 a a b * * L
+
+TM 3
+bbbacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abaaaabcbacacbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+ccbcabacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+qf1 c b b qf1 b c b R L L
+q3 * b a q2 * a a L R R
+q1 c b c q0 a c a L R R
+q3 a a c qf1 a * a * * *
+qf0 * * * q1 b c c * L L
+q3 a a * q1 a a a * R L
+q3 c * * q0 c c c * R *
+q2 * * a q1 a c b * R R
+q4 * c c q2 c c b R R L
+qf1 b * c qf0 a c c L L L
+
+TM 3
+abaaacaaaabaaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+abaabacbbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+acbcbbacccannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+q0 c c c q0 b c * * L R
+q1 b a b qf1 a b * * L R
+q3 c c c q1 * a * * R L
+q4 c c c q0 b c * * * R
+qf0 * a a q2 c a * L R *
+q2 b * a q4 * * * R L R
+q3 b * a q4 * a * * L L
+q1 a b a q0 * * a * * L
+q0 * a c qf0 b c * L L *
+q1 * b b q3 b b c L * R
+
